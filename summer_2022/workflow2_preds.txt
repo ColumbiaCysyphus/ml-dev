@@ -1,0 +1,44 @@
+Federal departments and agencies should give substantial consideration to the acquisition and use of security-related IT products and services that are compatible with the CVE vulnerability naming scheme.
+
+While CVE compatibility should be an important consideration in IT security product and service acquisition, federal departments and agencies should foremost consider their overall requirements (functionality, cost, performance, architecture, etc.)
+
+It could provide the basis for meaningful dialogues on principles of responsibility and accountability to manage what Joseph Nye Jr. has called their “cooperative rivalry,” and then on how to deal with potential cyber operations against capabili-ties that could affect NC3.
+
+Agencies should use CVE in their internal reports of vulnerability scans, notifications to system owners of observed vulnerabilities, and alerts identifying the vulnerabilities targeted by active exploits.
+
+Assured Decisionmaking Procedures for Cyber OperationsTo reduce risks of ill-conceived cyber operations, the two sides should subject all such operations to robust oversight and risk management protocols.
+
+Your organization’s use of CVE-compatible products can assist you by  1) determining which product covers the vulnerabilities most applicable to an agency’s network infrastructure; and   2) increasing the assurance that the alerts produced by the product(s) you choose will be able to be correlated with alerts from your other products and from your incident response center.
+
+Federal departments and agencies should use the CVE vulnerability naming scheme in their descriptions and communications of vulnerabilities.
+
+Fourth, both countries could address concerns over third-party cyber intervention in NC3 systems by committing to exercise effective oversight and control over actors that are: 1) under their direc-tion; 2) using their territory to conduct operations; 3) employing capabilities developed by them; or 4) allies over whom they wield considerable influence.
+
+• For communication during a major cyber incident or crisis, established channels between desig-nated higher-level officials would be most useful to prevent misunderstanding, coordinate emer-gency responses, or notify the other side of possible responses to major cyber attacks.
+
+We should encourage resiliency measures with the aim of enhancing one’s own cyber defense.
+
+CVE consists of both standardized and candidate vulnerabilities, and systems should be monitored for both types.
+
+To reduce anxieties and instabilities that may be caused by cyber threats to NC3 systems, the two sides will also need to have expert-level talks to discuss relevant issues more broadly.
+
+For example, communications to FedCIRC or other incident response teams should reference, where known, the CVE vulnerability name that newly observed exploits are targeting.
+
+Hence, it is meaningful and feasible to discuss possible measures they could take unilaterally and/or collaboratively to diminish inadvertent cyber threats to NC3.
+
+They would thus be well advised to negotiate and/or unilaterally adopt measures to restrain their cyber capabilities and/or actions to threaten each other’s NC3.
+
+Further, U.S. cyber-nuclear operators and policymakers should conduct tabletop exercises to explore and better understand such dynamics, and how to avoid those that would be especially likely and/or dangerous.
+
+The two militaries could discuss extending the latter MOU to discuss basic principles of conduct for cyber operations.
+
+By penetrating NC3 in a way that can be detected and/or knowingly disclosing relevant information afterwards, cyber operations might erode the adversary’s confidence in the availability,  20integrity, and confidentiality of their system.
+
+Legal oversight, which includes two types of legal review that provide an assessment both for the capability and for the operation as it applies to either the international law of armed conflict or other applicable domestic and international laws and agreements.Implementing oversight arrangements like these would unquestionably reduce risks of ill-conceived cyber operations.
+
+This would mean both sides expanding, intensifying, and accelerating assertive cyber operations to gain a sense of security in cyberspace.
+
+We then turn to our main purpose—exploring possible ways to reduce such risks.Functions of NC3In order to decide on which scenarios to focus, it is helpful to define the basic functions that any NC3 architecture can serve.44 According to our understanding, the functions are to: 1. guarantee effective monitoring and exclusive control at all times over all nuclear forces and strategic operations;  2. support decisionmaking, planning, and operations in all scenarios;  3. provide timely warning of imminent attack;  4. supply situational awareness to the various command levels;  5. assure effective and secure communications to and from national command authority;  6. accommodate and support all required maintenance, upgrade, safety, and surety operations;  7. withstand all efforts to undermine or subvert the reliable transmission of information and  guidance between and across command levels; and 8. sustain high standards of safety, security, and secrecy commensurate with the sensitivity of nuclear weapons.
+
+Some of it can overlap with the dialogues we proposed earlier so the two sides can communicate their respective perceptions and concerns about cyber threats, cyber stability, and cyber strategies and policies in general.
+
