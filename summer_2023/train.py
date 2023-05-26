@@ -248,7 +248,7 @@ def main():
 
     # Define the dataset and data loaders
     train_dataset = RecsDataset(train_texts, train_labels, tokenizer, max_length=128)
-    val_dataset = RecsDataset(val_texts, val_labels, tokenizer, max_length=128)
+    val_dataset = RecsDataset(val_texts, val_labels, tokenizer, max_length=128, training=False)
 
     model_name = "mark1"
 
