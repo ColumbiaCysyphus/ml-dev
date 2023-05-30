@@ -1,6 +1,6 @@
 # Spring 2023: Fine-Tuning BERT
 
-## 0. Fine-Tuning Template
+## 0. Fine-Tuning Templates
 This folder provides BERT fine-tuning templates for Masked Language Modeling (MLM) and sequential classification using TensorFlow and PyTorch. It also includes a template script for extracting sentences from policy documents in PDF format.
 
 ## 1. Fine-Tuning BERT
