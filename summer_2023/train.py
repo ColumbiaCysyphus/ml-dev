@@ -215,11 +215,12 @@ def main():
     sentences = load_list_from_pickle("sentences.pkl") # read_data()
 
     # %%
-    train_indices = [retrieve_sentence_index(sentence, sentences) for sentence in train_rows.iloc[:, 1]]
-    test_indices = [retrieve_sentence_index(sentence, sentences) for sentence in test.iloc[:, 1]]
+    train_indices = [retrieve_sentence_index(sentence, sentences) for sentence in train_rows.iloc[:, 1]] # 100 samples
+    test_indices = [retrieve_sentence_index(sentence, sentences) for sentence in test.iloc[:, 1]] # 9 samples
 
     # %%
     train_recs = [sentences[idx] for idx in set(train_indices)]
+    test_recs = [sentences[idx] for idx in set(test_indices)]
 
     non_recs = []
     while len(non_recs) != 125:
@@ -228,17 +229,25 @@ def main():
             non_recs.append(sentences[samp_idx])
 
     # %%
-    texts = non_recs + train_recs
-    labels = [0] * len(non_recs) + [1] * len(train_recs)
+    train_non_recs = non_recs[:110]
+    test_non_recs = non_recs[110:]
 
-    combined_lists = list(zip(texts, labels))
+    train_texts = train_non_recs + train_recs
+    test_texts = test_non_recs + test_recs
+
+    train_labels = [0] * len(train_non_recs) + [1] * len(train_recs)
+    test_labels = [0] * len(test_non_recs) + [1] * len(test_recs)
+
+    train_combined = list(zip(train_texts, train_labels))
+    test_combined = list(zip(test_texts, test_labels))
 
     # Shuffle the combined lists
-    random.shuffle(combined_lists)
-
-    # Unzip the shuffled combined lists
-    texts, labels = zip(*combined_lists)
+    random.shuffle(train_combined)
+    random.shuffle(test_combined)
     # %%
+    # Unzip the shuffled combined lists
+    texts, labels = zip(*train_combined)
+    test_texts, test_labels = zip(*test_combined)
     # Split the data into train and validation sets
     train_texts, val_texts, train_labels, val_labels = train_test_split(texts, labels, test_size=0.2, random_state=42)
 
@@ -253,7 +262,7 @@ def main():
     model_name = "mark1"
 
     train(model, model_name, train_dataset, val_dataset)
-
+# %%
 if __name__ == '__main__':
     main()
 
