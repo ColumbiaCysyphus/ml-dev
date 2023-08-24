@@ -55,58 +55,49 @@ def translate(input_text, en2lang, lang2en):
 
 def main(middle_lang):
 
-    with open('recs.pkl', 'rb') as file:
+    with open(os.path.join('pkl_files', 'recs.pkl'), 'rb') as file:
         recs = pickle.load(file)
 
-    # file_name = file_path.split(os.sep)[-1][:-4]
+    if middle_lang == 'russian':
+        en2ru = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-ru.single_model', tokenizer='moses', bpe='fastbpe')
+        ru2en = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.ru-en.single_model', tokenizer='moses', bpe='fastbpe')
+        en2ru.max_positions = (10000, 10000) # this is (1024, 1024) by default. Not ideal way to solve the max_length exception
+        ru2en.max_positions = (10000, 10000)
+        en2ru.cuda()
+        ru2en.cuda()
+        russian_backtranslations = []
+        for rec in recs:
+            back_russian = translate(rec, en2ru, ru2en)
+            russian_backtranslations.append(back_russian)
 
-    start_idx = 0
-    # if not os.path.exists(save_folder):
-    #     os.makedirs(save_folder)
-    # else:
-    #     saved_ckpts = len(os.listdir(save_folder))
-    #     start_idx = saved_ckpts * CKPT_SAMPLES
+        with open(os.path.join('pkl_files', 'russian_recs.pkl'), 'wb') as file:
+            pickle.dump(russian_backtranslations, file)
 
-    en2ru = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-ru.single_model', tokenizer='moses', bpe='fastbpe')
-    ru2en = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.ru-en.single_model', tokenizer='moses', bpe='fastbpe')
-    en2ru.max_positions = (10000, 10000) # this is (1024, 1024) by default. Not ideal way to solve the max_length exception
-    ru2en.max_positions = (10000, 10000)
-    en2ru.cuda()
-    ru2en.cuda()
-    russian_backtranslations = []
-    for rec in recs:
-        back_russian = translate(rec, en2ru, ru2en)
-        russian_backtranslations.append(back_russian)
+    if middle_lang == 'german':
+        en2de = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-de.single_model', tokenizer='moses', bpe='fastbpe')
+        de2en = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.de-en.single_model', tokenizer='moses', bpe='fastbpe')
+        en2de.max_positions = (10000, 10000)
+        de2en.max_positions = (10000, 10000)
+        en2de.cuda()
+        de2en.cuda()
+        german_backtranslations = []
+        for rec in recs:
+            back_german = translate(rec, en2de, de2en)
+            german_backtranslations.append(back_german)
 
-    with open('russian_recs.pkl', 'wb') as file:
-        pickle.dump(russian_backtranslations, file)
+        with open(os.path.join('pkl_files', 'german_recs.pkl'), 'wb') as file:
+            pickle.dump(german_backtranslations, file)
 
-
-    en2de = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-de.single_model', tokenizer='moses', bpe='fastbpe')
-    de2en = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.de-en.single_model', tokenizer='moses', bpe='fastbpe')
-    en2de.max_positions = (10000, 10000)
-    de2en.max_positions = (10000, 10000)
-    en2de.cuda()
-    de2en.cuda()
-    german_backtranslations = []
-    for rec in recs:
-        back_german = translate(rec, en2de, de2en)
-        german_backtranslations.append(back_german)
-
-    with open('german_recs.pkl', 'wb') as file:
-        pickle.dump(german_backtranslations, file)
-
-    print("Back-translation success!")
+    print(f"Back-translation with {middle_lang} completed!")
 
 if __name__ == '__main__':
     '''
-    Usage: python back_translate.py reduced_data/yahoo_test.csv russian
+    Usage: python back_translate.py russian
     '''
 
-    file_path = sys.argv[1]
-    middle_lang = sys.argv[2].lower()
+    middle_lang = sys.argv[1].lower()
 
     if middle_lang in ['russian', 'german']:
-        main(file_path, middle_lang)
+        main(middle_lang)
     else:
         raise AttributeError("middle_lang should be Russian or German")

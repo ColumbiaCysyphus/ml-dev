@@ -212,7 +212,7 @@ def main():
     test = merged.loc[(merged.indexed_name == '12.pdf') | (merged.indexed_name == '9.pdf')]
     train_rows = merged.loc[~((merged.indexed_name == '12.pdf') | (merged.indexed_name == '9.pdf'))]
 
-    sentences = load_list_from_pickle("sentences.pkl") # read_data()
+    sentences = load_list_from_pickle(os.path.join('pkl_files', "sentences.pkl")) # read_data()
 
     # %%
     train_indices = [retrieve_sentence_index(sentence, sentences) for sentence in train_rows.iloc[:, 1]] # 100 samples
