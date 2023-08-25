@@ -1,2 +1,3 @@
 indexed_corpus/*.pdf
 *.pt
+slurm-*.out

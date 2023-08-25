@@ -69,6 +69,7 @@ def main(middle_lang):
         for rec in recs:
             back_russian = translate(rec, en2ru, ru2en)
             russian_backtranslations.append(back_russian)
+            break
 
         with open(os.path.join('pkl_files', 'russian_recs.pkl'), 'wb') as file:
             pickle.dump(russian_backtranslations, file)
