@@ -1,0 +1,65 @@
+assured decisionmaking procedures for cyber operations to reduce risks of ill - conceived cyber operations, the two sides should subject all such operations to robust oversight and risk management protocols.
+
+assessment and control procedures should operate at five levels : domestic and foreign policy oversight by competent national authority.
+
+operational oversight to verify positive control within an authorized chain of command.
+
+and legal oversight to assess both the capability and the operation as it applies to applicable domestic and international laws and agreements.
+
+we seek to suggest practical steps to reduce and manage these risks to serve the common interest in strategic stability.
+
+support decisionmaking, planning, and operations in all scenarios.
+
+provide timely warning of imminent attack.
+
+supply situational awareness to the various command levels.
+
+assure effective and secure communications to and from national command authority.
+
+accommodate and support all required maintenance, upgrade, safety, and surety operations.
+
+withstand all efforts to undermine or subvert the reliable transmission of information and guidance between and across command levels.
+
+in order to encourage considerable restraint when undertaking such activities — and extreme prudence if and when they do elect to engage in such activities — it is necessary to understand the risks posed by such intrusions.
+
+found: we recommend clarifying oversight at five levels : domestic and foreign policy oversight by competent national authority, so that adequate consideration is given to the potential reactions of domestic and / or foreign actors if they discover one ’ s cyber operation against them.
+
+found: such oversight also should provide assess - ments ( at low, medium, and high assurance levels ) that the capability will produce technical outcomes or effects as intended and not produce unintended consequences such as escalation or cascading effects.
+
+found: operational oversight with appropriate responsibilities, accountability, and command and control procedures that verify positive control within an authorized chain of command.
+
+we should encourage resiliency measures with the aim of enhancing one ’ s own cyber defense.
+
+the united states, they propose, should involve cyber - nuclear force operators and policymakers in thoughtful classified assessments of any risks that cyber operations against chinese ncsystems could create or intensify.
+
+such studies should address possible unintended consequences of malware propagating into systems beyond those that are the intended target, and other steps that could be misinterpreted carnegie endowment for international peace by their chinese counterparts.
+
+further, u. s. cyber - nuclear operators and policymakers should conduct tabletop exercises to explore and better understand such dynamics, and how to avoid those that would be especially likely and / or dangerous.
+
+the united states and china should agree to exercise effective oversight and control over destabilizing cyber activities of third parties that have one or more of the following characteristics : under their direction.
+
+using their territory to conduct operations.
+
+such dialogue ought to be carried out as a matter of strategic analysis rather than a forum for exchange of political accusations.
+
+such a bilateral communications channel should ideally also include an option for exchanging messages of alarm and reassurance on an ad hoc basis ( such as during a crisis ).
+
+but some dialogue should focus on risks and remedies specific to nc both sides could convey policies and practices they have put in place to prevent inadvertent escalation to nuclear war, which would then open the way for addressing each other ’ s concerns.
+
+the aim would be to help both parties better appreciate their respective concerns, concepts, and policies, and address at least some of these concerns constructively.
+
+nothing in this document should be taken to contradict standards and guidelines made mandatory and binding upon federal agencies by the secretary of commerce under statutory authority.
+
+agencies should be careful, however, to consider cve compatibility only for products and services that inherently make use of vulnerability names.
+
+found: federal departments and agencies should periodically monitor their systems for applicable vulnerabilities listed in the cve vulnerability naming scheme.
+
+found: agencies should identify the cve entries that apply to the software used in their systems and correct those vulnerabilities.
+
+found: since it is infeasible for an organization to find and fix all vulnerabilities in every system simultaneously, organizations should carefully prioritize their monitoring and patching efforts ( see nist sp procedures for handling security patches, to correct the most severe vulnerabilities on the most high - risk systems.
+
+federal departments and agencies should use the cve vulnerability naming scheme in their descriptions and communications of vulnerabilities.
+
+agencies should use cve in their internal reports of vulnerability scans, notifications to system owners of observed vulnerabilities, and alerts identifying the vulnerabilities targeted by active exploits.
+
+agencies should also use cve in communicating information about vulnerabilities externally.

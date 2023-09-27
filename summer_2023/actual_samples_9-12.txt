@@ -1,0 +1,22 @@
+Since it is infeasible for an organization to find and fix all vulnerabilities in every system simultaneously, organizations should carefully prioritize their monitoring and patching efforts (see NIST SP Procedures for Handling Security Patches, to correct the most severe vulnerabilities on the most high-risk systems.
+
+We recommend clarifying oversight at five levels: Domestic and foreign policy oversight by competent national authority, so that adequate consideration is given to the potential reactions of domestic and/or foreign actors if they discover one’s cyber operation against them.
+
+not found: Technical oversight that includes a “technical gain versus loss” assessment, which addresses the unintended 
+consequences if the technical capability used in an operation is discovered and used against 
+other targets including in one’s own territory.
+
+Such oversight also should provide assess- ments (at low, medium, and high assurance levels) that the capability will produce technical outcomes or effects as intended and not produce unintended consequences such as escalation or cascading effects.
+
+Operational oversight with appropriate responsibilities, accountability, and command and control procedures that verify positive control within an authorized chain of command.
+
+not found: Intelligence oversight, including an “intelligence gain versus loss” assessment that addresses the consequences 
+of exposure and potential loss of intelligence sources, methods, and resulting future insights if the 
+cyber operation or capability is discovered or revealed.
+
+Federal departments and agencies should periodically monitor their systems for applicable vulnerabilities listed in the CVE vulnerability naming scheme.
+
+not found: compatible/requirements.html compatible NIST recommends monitoring systems for vulnerabilities 
+included in the CVE list since it is a standardized, reviewed, and comprehensive vulnerability repository.
+
+Agencies should identify the CVE entries that apply to the software used in their systems and correct those vulnerabilities.
