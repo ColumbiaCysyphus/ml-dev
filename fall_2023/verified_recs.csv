@@ -1,0 +1,2834 @@
+1,ED586970.pdf,"School districts must ensure that personally identifiable information is securely stored, processed, transmitted, and otherwise managed according to established standards (Consortium for School Networking, “Protecting Privacy in Connected Learning Toolkit,” 2014)."
+1,ED586970.pdf,Identify and recognize risks and vulnerabilities as well as the interconnected nature of K-12 ecosystems.
+1,ED586970.pdf,Design systems and services with a design-for-failure mindset
+1,ED586970.pdf,Consider the benefits of a diverse combination of technologies and providers
+1,ED586970.pdf,Leverage partnerships with agencies and external entities to improve security controls
+1,ED586970.pdf,Establish a culture of vigilance and ongoing audit of those controls
+1,ED586970.pdf,"Expand security resilience beyond cybersecurity into the design of processes, the organizational culture, and the executive suite"
+1,ED586970.pdf,Establish and enforce an acceptable-use policy that provides enforceable guidance on what is and is not acceptable in the use of district IT assets
+1,ED586970.pdf,"Establish data-sharing agreements that structure partner relationships with clear provisions for indemnification, data governance, security expectations, and  conditions for remedy or termination"
+1,ED586970.pdf,Encourage a culture of collaboration by setting clear expectations for collaborative behavior within departmental routines
+1,ED586970.pdf,Move to security embedded into services
+1,ED586970.pdf,"Create incident response plans that clearly identify roles, communication protocols, and expectations for escalation to ensure incident resolution"
+1,ED586970.pdf,Socialize IT staff to the importance of configuration and change management as well as asset tracking
+1,ED586970.pdf,"Consider implementing a data center configuration management or Runbook tool to track high priority IT assets, their current configuration, and all changes made to these assets"
+1,ED586970.pdf,Standardize IT assets and configurations wherever possible
+1,ED586970.pdf,"Automate provisioning of IT assets, including initial configuration, changes, patches, and software updates"
+1,ED586970.pdf,"Develop an initial disaster recovery plan, test its execution according to the documented plan, and update and improve the plan annually"
+1,ED586970.pdf,Implement steps to increase IT resilience to reduce risks associated with disruptions
+1,ED586970.pdf,"Participate in developing, reviewing, and updating the organization’s business continuity plan"
+1,ED586970.pdf,Frequent and ongoing internal vulnerability assessments should be accompanied by periodic penetration testing (pen testing) performed by a trusted outside entity to uncover any vulnerabilities undetected by internal scans.
+1,ED586970.pdf,Develop and implement identity management strategies and solutions for personalization and security management
+1,ED586970.pdf,Educate all your stakeholders and users on the importance of network security
+1,ED586970.pdf,Be diligent in monitoring the network or utilize a service provider who is
+1,ED586970.pdf,Implement strong perimeter defense services and solutions
+1,ED586970.pdf,Be proactive—research emerging technologies and implement best-of-breed solutions for perimeter defense and intrusion prevention
+1,ED586970.pdf,Engage service providers and vendors who not only have a deep understanding of the solution they are providing but also have experience and knowledge of the unique needs of the K-12 environment
+1,ED586970.pdf,Designate security manager to work with service providers and focus on all aspects of network security
+1,ED586970.pdf,Conduct an end-to-end network security assessment to identify gaps or areas of improvement
+,,
+,,
+2,gao-20-241.pdf,"
+The Secretary of Defense should ensure that the DOD CIO takes appropriate steps to ensure implementation of the DC3I tasks."
+2,gao-20-241.pdf,The Secretary of Defense should ensure that DOD components develop plans with scheduled completion dates to implement the four remaining CDIP tasks overseen by DOD CIO
+2,gao-20-241.pdf,The Secretary of Defense should ensure that the Deputy Secretary of Defense identifies a DOD component to oversee the implementation of the seven CDIP tasks not overseen by DOD CIO and report on progress implementing them. 
+2,gao-20-241.pdf,The Secretary of Defense should ensure that DOD components accurately monitor and report information on the extent that users have completed the Cyber Awareness Challenge training as well as the number of users whose access to the network was revoked because they have not completed the training.
+2,gao-20-241.pdf,"The Secretary of Defense should ensure that the DOD CIO ensures all DOD components, including DARPA, require their users to take the Cyber Awareness Challenge training developed by DISA."
+2,gao-20-241.pdf,The Secretary of Defense should direct a component to monitor the extent to which practices are implemented to protect the department’s network from key cyberattack techniques.
+2,gao-20-241.pdf,The Secretary of Defense should ensure that the DOD CIO assesses the extent to which senior leaders’ have more complete information to make risk-based decisions—and revise the recurring reports (or develop a new report) accordingly.
+,,
+,,
+3,weaponizing-digital-trade_csr_combined_final.pdf,"For the digital trade zone to be effective, digital trade should freely flow among member states, but member states should also limit digital trade with nonmember states."
+3,weaponizing-digital-trade_csr_combined_final.pdf,Trade zone members should also agree to jointly sanction nonmember states that harbor cybercriminals or participate in banned activities.
+3,weaponizing-digital-trade_csr_combined_final.pdf,Coordinated sanctions should begin with warnings and narrowly target specific actors.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"An ongoing stream of funding to improve global cyber hygiene, build cybersecurity capacity in developing countries, and coordinate international law enforcement investigations and takedown operations is necessary."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"The U.S. government should work with other democratic nations, the technology industry, nonprofits, academia, and user groups to create a digital trade zone with rules that govern content moderation, data localization, cross-border cybercrime, and obligations to assist during cyberattacks."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Tariffs on digital goods from outside the trade zone should be used, at least in part, to fund joint cybersecurity efforts within the zone."
+3,weaponizing-digital-trade_csr_combined_final.pdf,Establish a treaty organization to coordinate cybersecurity and law enforcement efforts.
+3,weaponizing-digital-trade_csr_combined_final.pdf,Create a shared tariff and sanctions policy
+3,weaponizing-digital-trade_csr_combined_final.pdf,Create sustained funding for collective efforts
+3,weaponizing-digital-trade_csr_combined_final.pdf,"In shaping and implementing the digital trade zone and its enforcement mechanisms, nongovernmental stakeholders should crucially be included."
+3,weaponizing-digital-trade_csr_combined_final.pdf,Clean up the open web: Treaty mechanisms should also include an organization to coordinate efforts to improve cybersecurity hygiene.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Keep ICANN independent, but pressure it to clean up domain space"
+3,weaponizing-digital-trade_csr_combined_final.pdf,"The treaty should establish strong mechanisms to provide notice of cyber threats emanating from networks and systems, oversee the elimination of these threats, and create consequences for companies that do not cooperate in these efforts."
+3,weaponizing-digital-trade_csr_combined_final.pdf,The accord should formalize systems for notification of malicious activity and enforce requirements to take down infrastructure used by malicious actors.  
+3,weaponizing-digital-trade_csr_combined_final.pdf,"With a system in placewithin the zone, treaty mechanisms should also punish bad actors"
+3,weaponizing-digital-trade_csr_combined_final.pdf,The treaty should establish a coordinated system to drop traffic from companies outside the zone that are causing problems inside the zone.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Ban covert election interference and accept a ""No Spy"" provision"
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Crucially, this ban should prohibit members from engaging in covert election interference globally, not just against other member states."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Limit digital trade, not data flows"
+3,weaponizing-digital-trade_csr_combined_final.pdf,Certain complicated issues in internet governance are unlikely to be resolved by trade negotiators and should be tabled to prevent stalling the formation of the trade zone.
+3,weaponizing-digital-trade_csr_combined_final.pdf,The United States and its allies should form a digital trade zone that ties the adoption of democratic values online to access digital markets.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"The United States should shift its diplomatic efforts from promoting a global, open internet to preserving an open internet that connects the digital economies of democratic countries."
+3,weaponizing-digital-trade_csr_combined_final.pdf,The United States should weaponize its digital trade relationships to create a system of incentives and penalties that will promote security hand in hand with democratic values on the internet.
+3,weaponizing-digital-trade_csr_combined_final.pdf,The United States should work to mend the emerging rift with Europe on digital issues and create a compelling vision and attractive market that will draw in democratic countries around the globe.
+3,weaponizing-digital-trade_csr_combined_final.pdf,U.S. policy should move on from approaches that seek to find common ground with authoritarian regimes.
+3,weaponizing-digital-trade_csr_combined_final.pdf,the United States should pursue a values-based approach that would create a digital trade zone with common standards and practices compatible with democratic values and then limit access to the digital markets within this zone to those countries that abide by these standards and practices.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Such a digital trade zone should be constructed incrementally, building on existing frameworks."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Building on the CLOUD Act, the digital trade zone should establish principles for privacy and civil liberties protections and a process for determining whether proposed member states abide by those principles."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Beyond law enforcement cooperation, the accord should also address the privacy rights of all citizens from member states."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"To address common security concerns and provide an added incentive for joining the trade zone, member states should agree to jointly end reliance on hardware and software from nonmember states in critical infrastructure and national security applications."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"The U.S. government should work with other democratic nations, the technology industry, nonprofits, academia, and user groups to create a digital trade  zone with rules that govern content moderation, data localization, cross-border cybercrime, and obligations to assist during cyberattacks."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"For the digital trade zone to be effective, digital trade should freely flow among member states, but member states should also limit digital trade with nonmember states."
+3,weaponizing-digital-trade_csr_combined_final.pdf,Trade zone members should also agree to jointly sanction nonmember states that harbor cybercriminals or participate in banned activities.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Under this thinking, the agreement should require each member state to contribute annual payments to the treaty organization to support these efforts."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Although the digital trade zone will undoubtedly place new requirements on private companies, voluntary efforts in support of its development should also be encouraged."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"For companies organized and operating outside of member states, treaty instruments should set the terms under which such companies could be brought into the fold."
+3,weaponizing-digital-trade_csr_combined_final.pdf,The organization should take responsibility for rating countries on their cybersecurity hygiene efforts so that a name-and-shame effect can take hold.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"Beyond simply scanning and rating, the treaty organization should also fund initiatives to promote the implementation of more secure protocols."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"A crucial part of this effort should be a sustained, coordinated effort to dismantle the infrastructure used by cybercriminals."
+3,weaponizing-digital-trade_csr_combined_final.pdf,The organization should fund national and international efforts to address these challenges.
+3,weaponizing-digital-trade_csr_combined_final.pdf,"ICANN should be pressured to strengthen identity requirements for registering websites, improve systems for abuse reporting, and punish registrars that cater to criminal entities."
+3,weaponizing-digital-trade_csr_combined_final.pdf,"with evidence of a global online campaign of Russian interference coming into clear view, the accord should ban member states from engaging in covert election interference."
+3,weaponizing-digital-trade_csr_combined_final.pdf,Being part of this digital trade zone should require member countries to commit to being good partners in improving cybersecurity so that the ill effects of cross-border digital trade do not undermine the value of that trade.
+,,
+,,
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Develop Common Cybersecurity Definitions for Federal Acquisitions
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Institute Baseline Cybersecurity Requirements as a Condition of Contract Award for Appropriate Acquisitions.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Ensuring that the people, processes, and technology with access to assets at risk are employing baseline requirements raises the level ofcybersecurity across the Federal enterprise. ·"
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"As a preliminary matter, cybersecurity requirements need to be clearly and specifically articulated within the requirements ofthe contract."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Institute a Federal Acquisition Cyber Risk Management Strategy.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The government needs an interagency acquisition cyber risk management strategy that requires agencies to ensure their performance meets strategic cyber risk goals for acquisition and is part ofthe government's enterprise risk management strategy.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"For acquisitions that present cyber risks, the government should only do business with organizations thatmeet such baseline requirements in both their own operations and in the products and services they deliver."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The baseline should be expressed in the technical requirements for the acquisition and should include performance measures to ensure the baseline is maintained and risks are identified.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Incorporate acquisition cybersecurity into required training curricula for appropriate workforces.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Require organizations that do business with the government to receive training about the acquisition cybersecurity requirements ofthe organization's government contracts.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"To maximize consistency in application ofprocurement rules, develop and use ""overlays"" for similar types of acquisition, starting with the types of acquisitions that present the greatest cyber risk."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Include a Requirement to Purchase from Original Equipment Manufacturers, Their Authorized Resellers, or Other ""Trusted"" Sources, Whenever Available, in Appropriate Acquisitions."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Increase Government Accountability for Cyber Risk Management.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Identify and modify government acquisition practices that contribute to cyber risk.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Integrate security standards into acquisition planning and contract administration.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Incorporate cyber risk into enterprise risk management and ensure key decision makers are accountable for managing risks of cybersecurity shortfalls in a fielded solution.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Implementation ofthe recommendations should be precisely aligned with the extensive ongoing critical infrastructure and cybersecurity efforts of industry and government, most importantly the Comprehensive National Cybersecurity Initiative and the Cybersecurity Framework being developed under the Executive Order, but also the National Infrastructure Protection Plan (NIPP), the associated Sector Specific Plans, information sharing efforts on threat and vulnerability issues, the sectors' various risk assessment and risk management activities, and statutory and regulatory changes."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Cybersecurity standards used in acquisitions should align to the greatest extent possible with international standards and emphasize the importance of organizational flexibility in application.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Changes to the Federal Acquisition System therefore should be focused on strengthening the cybersecurity knowledge, practices, and capabilities within the Federal government's network and domain."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The implementation approach should leverage the existing system of voluntary international standards development and the Cybersecurity Framework.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The government should start by changing its own practices that increase cyber risk and focus on the types of acquisitions that present the greatest cyber risk and in which investment of scarce resources will provide the greatest return overall.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The government must work to ensure that there is not a mismatch between mission-based cybersecurity requirements for product assurance or connectivity and what it is actually purchasing.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"It is important to note that implementation must be consistent with U.S. obligations under international agreements, and voluntary international standards should be applied whenever possible in Federal acquisitions."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Ultimately, the government must continue striving to make innovation the standard in improving cybersecurity."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Due to resource constraints and the varying risk profiles of Federal acquisitions, the government should take an incremental, risk-based approach to increasing cybersecurity requirements in its contracts beyond the baseline."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"As a preliminary matter, cybersecurity requirements need to be clearly and specifically articulated within the requirements of the contract."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,Address Cybersecurity in Relevant Training.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"The training overall, and the industry engagement in particular, should clearly articulate that the government is changing its buying behavior relative to cybersecurity by adopting a risk-based methodology, and as a result, the government will require more from industry relative to cybersecurity in certain types of acquisition."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The strategy should be based on a government-wide perspective of acquisition and be primarily aligned with the methodologies and procedures developed to address cyber risk in the Cybersecurity Framework.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The risk analysis should be developed in alignment with the Federal Enterprise Architecture and NIST Risk Management Framework (RMF).
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"The strategy should include development of ""overlays:"" fully specified sets of security requrrements and supplemental guidance that provide the ability to appropriately tailor security requirements for specific technologies or product groups, circumstances and conditions, and/or operational environments."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"When developing the strategy, the government should leverage existing risk management processes and data collection methodologies and consistently incorporate cyber risk as an element ofenterprise risk management."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The strategy should encompass standard network security practices to address vulnerability ofinformation to cyber intrusions and exfiltration.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The strategy should leverage supply chain risk management prqcesses to mitigate risks of non-conforming items (such as counterfeit and tainted products).
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,And it should include appropriate metrics to define risk and to measure the ability of agencies to apply empirical risk modeling techniques that work across both public and private organizations. 
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"In developing the strategy, the government should use the active, working partnerships between industry, the civilian agencies, and the intelligence community, and create such partnerships where they do not already exist, with the goal ofleveraging validated and outcome-based risk management processes, best practices, and lessons learned."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Where appropriately defined categories of similar types of acquisitions already exist, the government should develop overlays for those types of acquisitions."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"The overlays should be developed in collaboration with industry, and consistently applied to all similar types of Federal acquisitions."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The starting point for development of the requirements should be the Cybersecurity Framework
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"The overlays should encompass realistic, risk-based controls that appropriately mitigate the risks for the type of acquisition and should define the minimum acceptable controls for any acquisition that is of a similar type."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"The overlays should not, as a general rule, incorporate standards directly into contracts and should avoid prescriptive mandates for specific practices, tooling, or country-specific standards, because the inflexibility ofthose approaches often inadvertently increases costs without actually reducing risk."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Instead, the overlays should specifically identify security controls from within standards that should be applied to the type of acquisition being conducted."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The overlays should also include acquisition and contractual controls like source selection criteria and contract performance measures.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Finally, to the greatest extent possible, the overlays should be expressed as technical requirements."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,The QBLs should be based on the cyber risk mitigation value provided by the use ofthe trusted source.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,This approach also represents a limitation of available sources and therefore should only be used for types of acquisition that present risks great enough to justifythe negative impact on competition or price differences between trusted and un-trusted sources.
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"For acquisitions that present these types of risks, the government should limit sources to OEMs,
+authorized resellers and trusted suppliers, and the qualification should be incorporated into the
+full acquisition and sustainment life cycles, starting with requirements definition, acquisition
+planning, and market research."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"If the government chooses to use a reseller, distributor, wholesaler, or broker that is not in a trusted relationship with the OEM, then the government should obtain assurances of the company's ability to guarantee the security and integrity ofthe item being purchased."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"At a minimum, the qualification program should be based on the Cybersecurity Framework, have consistent and well-defined processes for validation and testing, consider the use of third parties to conduct reviews and approvals, and include enforcement mechanisms."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"First, cyber risk should be addressed when a requirement is being defined and a solution is being analyzed."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Based on the cybersecurity overlay requirements for the type of acquisition, the requirement developer and acquisition personnel determine which controls should be included in the requirement, identify which risk decisions are critical for the acquisition, and ensure that the critical decisions are informed by key stakeholders and the cyber risk management plan."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Next, prior to release of the solicitation, acquisition personnel should certify that appropriate cybersecurity requirements are adequately reflected in the solicitation."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"Third, during the source selection process, acquisition personnel should participate in the proposal evaluation process and ensure that the apparent best value proposal meets the cybersecurity requirements of the solicitation."
+4,IMPROVING_CYBERSECURITY_AND_RESILIENCE_THROUGH_ACQUISITION.pdf,"the accountable individual (e.g. program executive), with the assistance of acquisition personnel, should be required to certify that the activity was conducted in accordance with prescribed standards."
+,,
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"When evaluating IT products and services that use vulnerability names, such as for possible acquisition, organizations should take into consideration the products and services’ support for CVE and/or CCE (as appropriate). "
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Organizations developing their own custom security software that will use vulnerability names should ensure that the software uses authoritative CVE and/or CCE names, as appropriate, and uses CPE names with them when indicating which IT products the CVE and CCE names apply to. "
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Using CVE, CCE, and CPE names supports interoperability with other software and services."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Organizations should use authoritative CVE and CCE names in their internal vulnerability assessment and reporting, including assessment reports, notifications to system owners of detected vulnerabilities, and alerts identifying the vulnerabilities being targeted by active exploits."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,Organizations should also use CPE names when indicating which IT products the vulnerabilities apply to. 
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Organizations should use authoritative CVE and CCE names in their external vulnerability communications, as well as the CPE names for the IT products that the vulnerabilities apply to."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"As recommended in NIST SP 800-117 Revision 1, organizations should encourage security software vendors to incorporate support for CVE and CCE into their products, as well as encourage all software vendors to include authoritative CVE and CCE names in their product security advisories and other security-related documentation and communications, as well as to reference the CPE names for their products."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Software developers should participate in the CVE issuance processes to help ensure that CVEs provide the necessary information and are created in a timely manner, such as while planning a public vulnerability announcement or immediately after a vulnerability has been publicly announced."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,Authors of CVE names should reference applicable vendor patch identification whenever possible.
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,Software developers and service providers should incorporate support for CVE and CCE into their products and services that reference publicly known software vulnerabilities. 
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Also, CPE names should be used when indicating which products the CVE and CCE names apply to."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"Software developers and service providers should incorporate the appropriate authoritative CVE and/or CCE names in their security advisories and other vulnerability-related documentation and communications, as well as the CPE names that indicate which products the CVE and/or CCE names apply to."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,"For example, communications to incident response teams should reference, when known, the CVE or CCE names of the vulnerabilities that are being exploited and the CPE names of the products that are being exploited."
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,Another example is that organizations should use CVE and CCE names when communicating with vendors that support CVE and CCE names.
+6,GOVPUB-C13-e1840672bcc4d823d5a2b11dcb45d280.pdf,Software developers are encouraged to work with the MITRE Corporation to establish unique CCE identifiers for their products’ security configuration settings.
+,,
+,,
+7,PNNL-26932.pdf,"Using such tools and lessons, the United States should carefully consider its potential adversaries, its desired outcomes, and its available options to create a robust cyber stability strategy, tailored to deter specific states of greatest concern that contributes to deterring malicious actors from attacks that exceed acceptable thresholds and encourages international cooperation in supporting a robust cyber policy  infrastructure."
+7,PNNL-26932.pdf,"Conduct more detailed research and development on certain cyber stability tools identified in this report, such as technical and institutional options for international cooperation on attribution of hostile cyber actions, reinvestment in international alliances and partnerships to amplify the U.S. cyber deterrence posture, and development of capabilities and policies for U.S. forces to conduct “loud” cyber retaliatory acts against offending State actors."
+7,PNNL-26932.pdf,Conduct a pilot study on tailored deterrence strategies targeted toward a selected near-peer rival and a specific cyber-enabled rogue. 
+7,PNNL-26932.pdf,"Work with USG partners to develop an agreed lexicon for signaling U.S. intent, thresholds of unacceptable damage, and threatened retaliation in the cyber domain. "
+7,PNNL-26932.pdf,"After meeting the legal thresholds required as determined by legal counsel, the U.S. government could consider responding to malicious cyber acts with cyber reprisals, or possibly even physical reprisals."
+7,PNNL-26932.pdf,"To assist policy makers in deciding how to respond, the U.S. government could rate States according to their cyber dependency to determine if retaliation is proportionate, justified, and effective."
+7,PNNL-26932.pdf,"One of the easier steps the U.S. government could take to promote stability with regards to cyberspace is to unilaterally declare the types of cyber-attacks that will trigger a response, and, in general terms, the spectrum of activities the U.S. might undertake as a proportionate response."
+7,PNNL-26932.pdf,"For example, the United States could issue statements , public and private, about how it will respond to cyber acts by specific countries, as a type of tailored deterrence."
+7,PNNL-26932.pdf,"Similarly, the United States could unilaterally clarify its position on cyber norms and possible responses using back channels or private communications with potential adversaries."
+7,PNNL-26932.pdf,Improve attribution and detection capabilities
+7,PNNL-26932.pdf,Protocols need to be established that set forth norms for the amount of transparency required for cyber activities of varying levels of impact.
+7,PNNL-26932.pdf,The United States could develop tailored deterrence strategies specific for States considered to be adversaries.
+7,PNNL-26932.pdf,The United States could continue to publically expose and condemn perpetrators of cyber-attacks.
+7,PNNL-26932.pdf,"By implementing and enforcing strong criminal laws against cyber crimes in a coherent manner, coordinated across multiple U.S. agencies, the United States could deter the individuals who act on behalf of States in cyberspace."
+7,PNNL-26932.pdf,"By leveraging MLATs and domestic criminal prosecutions, the United States may be able to deter would-be cybercriminals from operating as State proxies."
+7,PNNL-26932.pdf,The United States could consider developing a credible and consistent cybercrime prosecution strategy that would serve national security interests.
+7,PNNL-26932.pdf,"To deter would-be cyber adversaries, the United States could improve the cyber security posture of critical systems and infrastructure."
+7,PNNL-26932.pdf,Another way to improve defense could be to expand efforts within government and the technology industry to build security into systems and networks from the initial design phase.
+7,PNNL-26932.pdf,"The United States could also consider establishing or adopting standards for system architecture related to security, recovery, and reconstitution."
+7,PNNL-26932.pdf,"Such standards could apply to the federal government and its contractors initially but might be expanded to include private sector actors as ell, particularly those working in critical infrastructure."
+7,PNNL-26932.pdf,"Lastly, the United States could have two educational campaigns: teach technology users about cyber threats and groom the next generation of cyber security experts."
+7,PNNL-26932.pdf,The U.S. can significantly enhance the effectiveness of its cyber deterrence posture by leveraging its long-standing alliances and international institutions.
+7,PNNL-26932.pdf,"Wherever feasible, the U.S. should look to undertake its cyber deterrence actions together with allies, which will both isolate and increase the costs for would-be adversaries."
+7,PNNL-26932.pdf,Serious consideration should also be given to the promotion of international partnership to assist U.S. allies and developing nations with cyber security and education.
+7,PNNL-26932.pdf,Clarify possible and proportionate retaliation options for malicious cyber acts and issuing policy statements establishing the thresholds for reaction or retaliation.
+7,PNNL-26932.pdf,"Invest in new technologies to provide advance warning of cyber-attacks, if possible, and invest in international law enforcement capabilities to better identify perpetrators of cyber-attacks."
+7,PNNL-26932.pdf,Defining tailored deterrence strategies for specific cyber adversary States – Acknowledge that pressure points for different States are different.
+7,PNNL-26932.pdf,Publically identify State perpetrators of cyber-attacks to help build international coalitions against them and develop customary international law against such behavior.
+7,PNNL-26932.pdf,Prosecute State proxies and other criminal elements behind whom proxies hide.
+7,PNNL-26932.pdf,"Implement domestic sanctions. Garner international support for sanctions, as sanctions are more effective when multilateral."
+7,PNNL-26932.pdf,Demonstrate to adversaries that the United States is aware of the adversary’s cyber action and warn them to stop.
+7,PNNL-26932.pdf,Use kinetic responses when attribution is certain as a last resort and only in a proportionate manner.
+7,PNNL-26932.pdf,Work to enhance partner countries’ counter-cyber capacity and leverage long-standing U.S. alliances in a coherent cyber-deterrence strategy to achieve the maximum deterrent effect vis-à-vis adversaries.
+,,
+,,
+8,INSA_WP_5G_v5_Pgs.pdf,"The Administration and/or Congress should direct the Intelligence Community to evaluate foreign strategies for influencing U.S. 5G wireless infrastructure and the IoT applications it will support, including the acquisition of U.S. companies and technologies. "
+8,INSA_WP_5G_v5_Pgs.pdf,"Building on such analysis, the Committee on Foreign Investment in the United States (CFIUS) should carefully scrutinize proposed acquisitions that could give foreign countries sensitive footholds in 5G technologies, components, networks and IoT applications."
+8,INSA_WP_5G_v5_Pgs.pdf,the imminent deployment of 5G technology in the United States means that government and industry must immediately collaborate on steps to mitigate national security risks.
+8,INSA_WP_5G_v5_Pgs.pdf,"To eliminate the threat where possible, the United States should continue urging its allies and partners to ban Chinese firms from their 5G networks."
+8,INSA_WP_5G_v5_Pgs.pdf,"To mitigate the threat where necessary, the United States should develop technical solutions that enable U.S. and allied military forces and intelligence agencies to operate securely on telecommunications networks that could be compromised."
+8,INSA_WP_5G_v5_Pgs.pdf,"The White House should form a public/private Working Group on defining U.S. Trade Policy and Strategy with respect to wireless technology and innovation, including 5G and IoT applications deployment in the United States, with representation from DOD, the IC, the FCC, USTR, the leading wireless carriers, the larger U.S. technology industry, the venture capital community, and academia."
+8,INSA_WP_5G_v5_Pgs.pdf,Develop a long-term strategy to enhance U.S. technology leadership in the global wireless marketplace.
+8,INSA_WP_5G_v5_Pgs.pdf,Establish a public-private mechanism to continuously “red team” 5G infrastructure and the IoT applications it supports.
+8,INSA_WP_5G_v5_Pgs.pdf,"Develop common strategies to reduce the overall security risk to the U.S. 5G infrastructure, such as wider use of open source software, zero-trust networking concepts, virtualization and containerization of key security functions and applications, and the employment of artificial  intelligence techniques for advanced threat detection."
+8,INSA_WP_5G_v5_Pgs.pdf,The Administration should continue to assess and implement regulatory and policy changes that would remove barriers to rapid deployment of 5G and make more radio spectrum available for 5G.
+8,INSA_WP_5G_v5_Pgs.pdf,"With significant input from technology leaders in the U.S.telecommunications sector, Congress should develop legislation to expand U.S.  private sector investment in ICT and wireless innovation."
+,,
+,,
+10,COE-Cybersecurity-Labor-Market-Analysis-CA-Employers-web-FINAL_8.14.18.pdf,"Education and training providers should align their curriculum offerings with the NICE Cybersecurity Workforce Framework so students who complete programs have the requisite knowledge, skills and abilities for the work roles they are entering."
+10,COE-Cybersecurity-Labor-Market-Analysis-CA-Employers-web-FINAL_8.14.18.pdf,Employers should utilize the NICE Framework for creating job descriptions and designing workforce/ professional development strategies.
+10,COE-Cybersecurity-Labor-Market-Analysis-CA-Employers-web-FINAL_8.14.18.pdf,Education and training providers should expand capacity to prepare more students for the thousands of open specialized cybersecurity positions and IT/IS positions that require cybersecurity skills.
+,,
+,,
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"Basic research should emphasize the development of sound scientific foundations and formal, reproducible, and quantifiable methods for assessing the effectiveness and efficiency of cybersecurity solutions."
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"Federal agencies should continue to advance measurement science, standards, and related technologies in ways that underpin and accelerate adoption of effective, efficient, and practical security solutions and technologies."
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,Federal agencies should streamline the technology transition process for federally funded research and develop a suite of standardized licensing or other intellectual property agreements that could be selected to facilitate technology transfer to commercial entities as well as to the Federal Government.
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"To accelerate progress, traditional cybersecurity research should be augmented with expertise from social, behavioral, and economic disciplines."
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,Multidisciplinary research should be promoted by funding agencies and by research institutions.
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,Agencies should ensure that grant solicitations encourage multidisciplinary proposals.
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"Research institutions should ensure that personnel advancement (e.g., tenure) decisions value multidisciplinary research successes and publications as highly as traditional tenure criteria."
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,Organizational leaders should take measures to foster an inclusive workplace climate in cybersecurity to attract and recruit new talent and maximize workforce engagement. 
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"Federal agencies should work with cybersecurity stakeholders to promote the visibility of cybersecurity careers and increase the mobility of cybersecurity professionals across government, industry, and academia."
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"Within its acquisition process, Federal agencies should support solutions and technologies that advance the capabilities described in this Plan."
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf, Agencies should align such efforts with the Lab-to-Market Cross-Agency Priority Goal in the President's Management Agenda
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,"Therefore, to improve the overall ability of systems to respond, R&D activities should improve the capacity of systems, enterprises, and critical infrastructure to adapt, counter, recover, and adjust "
+11,Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf,Prioritize basic and long-term cybersecurity research
+,,
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,Federal departments and agencies should periodically monitor their systems for applicable vulnerabilities listed in the CVE vulnerability naming scheme.
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,"NIST recommends monitoring systems for vulnerabilities included in the CVE list since it is a standardized, reviewed, and comprehensive vulnerability repository."
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,Agencies should identify the CVE entries that apply to the software used in their systems and correct those vulnerabilities. 
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,"Since it is infeasible for an organization to find and fix all vulnerabilities in every system simultaneously, organizations should carefully prioritize their monitoring and patching efforts (see NIST SP 800-40, Procedures for Handling Security Patches, http://csrc.nist.gov) to correct the most severe vulnerabilities on the most high-risk systems. "
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,Federal departments and agencies should give substantial consideration to the acquisition and use of security-related IT products and services that are compatible with the CVE vulnerability naming scheme.
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,"In summary, NIST recommends the use of automated scanning tools on a frequent basis combined with periodic manual vulnerability discovery using ICAT. "
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,Federal departments and agencies should use the CVE vulnerability naming scheme in their descriptions and communications of vulnerabilities
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,"Agencies should use CVE in their internal reports of vulnerability scans, notifications to system 
+owners of observed vulnerabilities, and alerts identifying the vulnerabilities targeted by active 
+exploits."
+12,GOVPUB-C13-5cde279b01de831720a804c8aa919341.pdf,Agencies should also use CVE in communicating information about vulnerabilities externally.
+,,
+,,
+15,Defense-in-Depth-Cybersecurity-in-the-Natural-Gas-and-Oil-Industry.pdf,Cybersecurity regulation must balance the government’s interest in guidance and oversight against the risk that static rules will quickly become obsolete. 
+15,Defense-in-Depth-Cybersecurity-in-the-Natural-Gas-and-Oil-Industry.pdf,Cybersecurity guidance must not be so specific that it cannot accommodate the potential of multiple administrative regimes. 
+15,Defense-in-Depth-Cybersecurity-in-the-Natural-Gas-and-Oil-Industry.pdf,"Government must partner with industry to ensure that companies establish and maintain an active and agile cyber defense posture, but it must also recognize the limits of prescriptive mandates in this area and guard against regulatory overreach and the imposition of redundant or conflicting rules."
+15,Defense-in-Depth-Cybersecurity-in-the-Natural-Gas-and-Oil-Industry.pdf,"Industry companies urge policymakers to take a measured and coordinated approach to any potential new cybersecurity laws or regulations for the natural gas and oil industry, ideally based on a common understanding with industry on risks and based on the NIST Cybersecurity Framework."
+,,
+16,IG-21-019.pdf,"Integrate EA and ESA, and develop metrics to track the overall progress and effectiveness of EA."
+16,IG-21-019.pdf,"Collaborate with the Chief Engineer on strategies to identify and strengthen EA gaps across
+mission and institutional IT boundaries."
+16,IG-21-019.pdf,"Evaluate the optimal organizational placement of the Enterprise Architect and Enterprise
+Security Architect during and after MAP implementation to improve cybersecurity readiness."
+16,IG-21-019.pdf,"Determine each Center’s annual cost for performing independent assessments, including
+staffing, during the A&A process for NASA’s 526 systems."
+16,IG-21-019.pdf,"Develop baseline requirements in the planned CyPrESS contract for a dedicated enterprise team
+to manage and perform the assessment process for all NASA systems subject to A&A."
+,,
+,,
+17,gao-22-104279.pdf,"The Director of CISA should ensure that CISA’s process for developing a
+prioritized list of critical infrastructure that would cause national or
+regional catastrophic effects if destroyed or disrupted reflects current
+threats."
+17,gao-22-104279.pdf,"The Director of CISA should ensure that CISA’s process for developing a
+prioritized list of critical infrastructure that would cause national or
+regional catastrophic effects if destroyed or disrupted includes input from
+additional states that have not provided recent nominations or updates."
+17,gao-22-104279.pdf,"The Director of CISA should ensure that stakeholders are fully engaged in
+the implementation of the National Critical Functions framework."
+17,gao-22-104279.pdf,"The Director of CISA should document, as appropriate, goals and
+strategies for the National Critical Functions framework."
+17,gao-22-104279.pdf,"The Director of CISA should implement processes to improve
+communication and coordination between critical infrastructure
+organizations and CISA headquarters and regional staff."
+17,gao-22-104279.pdf,"The Director of CISA should coordinate with relevant regionally based,
+federal, and nonfederal partners to regularly develop and distribute
+regionally specific threat information to each of CISA’s 10 regions."
+,,
+,,
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"Dedicate Specific Funding Mechanisms for
+Cybersecurity Tied to Federal Priorities"
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"To make incident response more efficient and effective, whether for large or
+ small incidents, the United States should prioritize deconflicting efforts,
+authorities, and responsibilities across the various agencies."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"To better coordinate its SLTT efforts, the Department of Homeland Security
+(DHS) should further expand its localized assistance programs."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"First, the federal government should designate specific cybersecurity
+funding that is linked to national priorities,"
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"Second, federal incident response, guidance, and assistance programs
+should be deconflicted and streamlined to create a cross agency solution."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"Third, the Department of Homeland Security (DHS) and the Department
+of Defense (DoD) should prioritize the expansion and institutionalization
+of localized assistance programs."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"Current 
+governors should strive to form long-term strategies that will come to fruition
+beyond their administration, developing enduring models and effective means of
+implementation."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"The institutional approach should span across the various different agencies and
+branches of state government."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"On the flip side, the private sector should also actively reach out to state
+governments to start and/or increase these efforts."
+19,Cybersecurity_for_the_States_Lessons_from_Across_America_FINAL_3.pdf,"There should be department-wide priorities for
+SLTT efforts that are tied to specific, deconflicted initiatives across different
+departments and functionalities."
+,,
+,,
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"In cases of emergency,
+consideration should be given to the appointment
+of a Unified Incident Commander (UIC) by a state’s
+Governor."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Consideration should be given to clarifying
+safe harbor provisions – rules that indemnify
+organizations from liability for actions taken in
+emergency situations -- which would empower local
+and regional responders to take effective action."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Information Sharing and Analysis Centers
+(ISACs) for every critical infrastructure sector should
+clarify and standardize the ways in which they can
+facilitate information sharing among the public and
+private sectors."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Monitoring across all infrastructure sectors should
+continue to be improved, both to detect cyber
+vulnerabilities and to provide effective situational
+awareness during a cyber emergency."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Define and deconflict federal and state
+governments’ leadership roles in advance of
+crises."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Ensure that federal and state agencies
+know when to engage in a crisis, agree on
+who has legal jurisdiction, and clarify reporting
+mechanisms for local authorities and the
+private sector."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Determine attribution for the attack as soon as
+possible to enable rapid, effective mitigation
+efforts and help both state and federal
+governments respond in appropriate manners."
+20,INSA-Managing-Cyber Attack-Critical-Infrastructure.pdf,"Establish a Unified Incident Commander (UIC)
+to oversee a leadership, communication, and
+information hub."
+,,
+21,6189cebadc898.pdf,"The U.S. needs to continue cybersecurity efforts with the global community and invest in cyber
+prevention computer capacities to stay in front of attackers."
+21,6189cebadc898.pdf,Directors need to be kept informed of the potential legal risk of cyber-attacks upon their organizations.
+21,6189cebadc898.pdf,The Federal Trade commission needs to ramp up its capability to decide cases in a timely manner.
+21,6189cebadc898.pdf,"In criminal cases, offer use immunity to one of the attackers to capture, get the information from the
+defendant, and prosecute the whole cybersecurity attacking network."
+21,6189cebadc898.pdf,Continued vigilance in the criminal investigatory aspects of cyber-crime is high priority.
+21,6189cebadc898.pdf,"Continued review and auditing of systems with the guard of cyber breach insurance to cover corporations
+for recognizable losses along with regular auditing of systems is ethical and responsible."
+,,
+22,gao-20-629.pdf,"Congress should consider legislation to designate a leadership position in
+the White House with the commensurate authority—for example, over
+budgets and resources—to implement and encourage action in support of
+the nation’s cyber critical infrastructure, including the implementation of
+the National Cyber Strategy."
+22,gao-20-629.pdf,"The Chairman of the National Security Council, or his designee, should
+work with relevant federal entities to update strategy documents related to
+the nation’s cybersecurity to better reflect desirable characteristics of a
+national strategy, to include:
+• an assessment of cyber-related risk, based on an analysis of the
+threats to, and vulnerabilities of, critical assets and operations;
+• measures of performance and formal mechanism to track progress of
+the execution of activities; and
+• an analysis of the cost and resources needed to implement the
+National Cyber Strategy. (Recommendation 1)"
+,,
+23,CSC-Final-Report,Engage Actively and Effectively in Forums Setting International Information and Communications Technology Standards 
+23,CSC-Final-Report,"we propose giving existing organizations the tools they need to act with speed and agility 
+to defend our networks and impose costs on our adversaries. "
+23,CSC-Final-Report,The United States must work with allies and partners to promote responsible behavior in cyberspace.
+23,CSC-Final-Report,"The United States must deny benefits to adversaries who have long exploited cyberspace to their advan-
+tage, to American disadvantage, and at little cost to themselves. "
+23,CSC-Final-Report,"The United States must maintain the capability, capacity, and credibility needed to retaliate against actors 
+who target America in and through cyberspace."
+23,CSC-Final-Report,Reform the U S  Government’s Structure and Organization for Cyberspace 
+23,CSC-Final-Report,"The executive branch should issue an updated National Cyber Strategy (1.1) that reflects the strategic approach of 
+layered cyber deterrence and emphasizes resilience, public-private collaboration, and defend forward as key elements"
+23,CSC-Final-Report,"Congress should establish House Permanent Select and Senate Select Committees on Cybersecurity (1.2) to provide 
+integrated oversight of the cybersecurity efforts dispersed across the federal government."
+23,CSC-Final-Report," Congress should establish a Senate-confirmed National Cyber Director (NCD) (1.3), supported by an Office of the 
+NCD, within the Executive Office of the President. "
+23,CSC-Final-Report,Congress should strengthen the Cybersecurity and Infrastructure Security Agency (CISA) (1.4) 
+23,CSC-Final-Report,"Congress 
+must invest significant resources in CISA and provide it with clear authorities to realize its full potential."
+23,CSC-Final-Report,"Congress should create an Assistant Secretary of State (2.1) in the Department of State, with a new Bureau of 
+Cyberspace Security and Emerging Technologies, who will lead the U.S. government effort to develop and reinforce 
+international norms in cyberspace. "
+23,CSC-Final-Report,"The executive branch should engage actively and effectively in forums setting international information and com-
+munications technology standards (2.1.2). "
+23,CSC-Final-Report,"Specifically, the National Institute of Standards and Technology should 
+facilitate robust and integrated participation by the federal government, academia, professional societies, and industry."
+23,CSC-Final-Report," Congress should take steps to improve international tools for law enforcement activities in cyberspace (2.1.4), 
+including streamlining the Mutual Legal Assistance Treaty and Mutual Legal Assistance Agreement process and increas-
+ing the number of FBI Cyber Assistant Legal Attachés."
+23,CSC-Final-Report,"The United States needs a whole-of-nation approach to secure its interests and 
+institutions in cyberspace. "
+23,CSC-Final-Report,"Congress should codify responsibilities and ensure sufficient resources (3.1) for the Cybersecurity and Infrastructure 
+Security Agency and sector-specific agencies in the identification, assessment, and management of national and 
+sector-specific risk"
+23,CSC-Final-Report,"Congress should direct the U.S. government to develop and maintain Continuity of the Economy planning (3.2) in 
+consultation with the private sector to ensure continuous operation of critical functions of the economy in the event of 
+a significant cyber disruption."
+23,CSC-Final-Report,"Congress should codify a Cyber State of Distress tied to a Cyber Response and Recovery Fund (3.3) to ensure 
+sufficient resources and capacity to respond rapidly to significant cyber incidents."
+23,CSC-Final-Report,"Congress should improve the structure and sustain the funding of the Election Assistance Commission (3.4), enabling 
+it to increase its operational capacity to support states and localities in defense of the digital election infrastructure that 
+underpins federal elections and to ensure the widest use of voter-verifiable, auditable, and paper-based voting systems. "
+23,CSC-Final-Report,"The U.S. government should promote digital literacy, civics education, and public awareness (3.5) to build societal 
+resilience to foreign, malign cyber-enabled information operations."
+23,CSC-Final-Report,"In other cases, where 
+those forces either are not present or do not adequately address risk, the U.S. government must explore legislation, regula-
+tion, executive action, and public- as well as private-sector investments."
+23,CSC-Final-Report," Congress should establish and fund a National Cybersecurity Certification and Labeling Authority (4.1) empow-
+ered to establish and manage a program on security certifications and labeling of information and communications 
+technology products."
+23,CSC-Final-Report," Congress should pass a law establishing that final goods assemblers of software, hardware, and firmware are liable 
+for damages from incidents that exploit known and unpatched vulnerabilities (4.2) for as long as they support a 
+product or service."
+23,CSC-Final-Report,"Congress should establish a Bureau of Cyber Statistics (4.3) charged with collecting and providing statistical data 
+on cybersecurity and the cyber ecosystem to inform policymaking and government programs."
+23,CSC-Final-Report,"Congress should resource and direct the Department of Homeland Security to fund a federally funded research and 
+development center (4.4) to work with state-level regulators to develop certifications for cybersecurity insurance 
+products."
+23,CSC-Final-Report,"The National Cybersecurity Certification and Labeling Authority should develop a cloud security certification (4.5), 
+in consultation with the National Institute of Standards and Technology, the Office of Management and Budget, and 
+the Department of Homeland Security."
+23,CSC-Final-Report,"Congress should direct the U.S. government to develop and implement an industrial base strategy for information 
+and communications technology to ensure trusted supply chains (4.6) and the availability of critical information 
+and communications technologies."
+23,CSC-Final-Report,"Congress should pass a national data security and privacy protection law (4.7) establishing and standardizing 
+requirements for the collection, retention, and sharing of user data."
+23,CSC-Final-Report,"Congress should codify the concept of “systemically important critical infrastructure” (5.1), whereby entities 
+responsible for systems and assets that underpin national critical functions are ensured the full support of the U.S. 
+government and shoulder additional security requirements befitting their unique status and importance."
+23,CSC-Final-Report," Congress should establish and fund a Joint Collaborative Environment (5.2), a common and interoperable environ-
+ment for sharing and fusing threat information, insights, and other relevant data across the federal government and 
+between the public and private sectors."
+23,CSC-Final-Report,"Congress should direct the executive branch to strengthen a public-private, integrated cyber center in CISA (5.3) to 
+support its critical infrastructure security and resilience mission and to conduct a one-year, comprehensive systems 
+analysis review of federal cyber and cybersecurity centers."
+23,CSC-Final-Report,"The executive branch should establish a Joint Cyber Planning Cell (5.4) under CISA to coordinate cybersecurity 
+planning and readiness across the federal government and between the public and private sectors."
+23,CSC-Final-Report,"Congress should direct the Department of Defense to conduct a force structure assessment of the Cyber Mission 
+Force (6.1) to ensure that the United States has the appropriate force structure and capabilities in light of growing 
+mission requirements and increasing expectations, in both scope and scale. "
+23,CSC-Final-Report,"Congress should direct the Department of Defense to conduct a cybersecurity vulnerability assessment of all seg-
+ments of the nuclear control systems and continually assess weapon systems’ cyber vulnerabilities (6.2). "
+23,CSC-Final-Report,"Congress should require Defense Industrial Base (DIB) participation in threat intelligence sharing programs 
+(6.2.1) and threat hunting on DIB networks (6.2.2)."
+23,CSC-Final-Report,"Congress should also 
+consider ways to monitor, assess, and report on the implementation of this report’s recommendations over the next two years."
+23,CSC-Final-Report,"As a result, the United States must ensure that its research and development investments in AI/ML and other possible 
+breakthrough technologies match those technologies’ potential consequences for national security. "
+23,CSC-Final-Report," For the internet to fulfill its 
+original promise, the United States and its network of democratic allies must engage with standards-making bodies and have 
+well-researched agendas informed by a clear-eyed understanding of both technological and geopolitical trends."
+23,CSC-Final-Report,"The United States must collaborate with its partners—both government and private-sector 
+entities—to ensure that our most critical technologies are designed using standards that align with American values."
+23,CSC-Final-Report,"First, the executive branch should issue a new national 
+cyber strategy bringing coherence to the federal gov-
+ernment’s efforts. "
+23,CSC-Final-Report,"Second, Congress must improve its oversight of cyber-
+security by reorganizing and centralizing its committee 
+structure and jurisdiction"
+23,CSC-Final-Report,"Third, the executive branch must be organized to achieve 
+the agility and coherence necessary to effectively plan, 
+support, and employ government cyber resources. "
+23,CSC-Final-Report,"Fourth, the federal government must reform how it 
+recruits, trains, and educates its workforce to ensure that 
+it has the necessary cybersecurity talent."
+23,CSC-Final-Report,"The executive branch should issue an updated National 
+Cyber Strategy that embraces the concept of layered 
+cyber deterrence, with an emphasis on resilience, public- 
+and private-sector collaboration, and defend forward as 
+key elements. "
+23,CSC-Final-Report,"Importantly, the National Cyber Strategy should include 
+key concepts of layered cyber deterrence"
+23,CSC-Final-Report,"Second, it should prioritize deterrence 
+by denial, which, in cyberspace, must include increasing 
+the defense and security of cyberspace through resilience 
+and public- and private-sector collaboration."
+23,CSC-Final-Report,"Third, defend forward, which currently anchors the 
+DoD’s 2018 Cyber Strategy, should be integrated into 
+the broader framework of how the government employs 
+authorities that bear on cyber defense in support of over-
+all layered cyber deterrence goals"
+23,CSC-Final-Report," the United 
+States must proactively observe, pursue, and counter 
+adversary operations and impose costs in day-to-day com-
+petition."
+23,CSC-Final-Report,"The strategy should clearly express that defend 
+forward is an integral part of a comprehensive approach 
+that encompasses all of the instruments of national power 
+beyond the employment of strictly military capabilities; 
+these include trade and economic efforts, law enforce-
+ment activities, and diplomatic tools."
+23,CSC-Final-Report,"To induce adversaries to change their behavior, the 
+United States must create costs below the threshold 
+at which the full spectrum of credible retaliatory 
+response options may be triggered"
+23,CSC-Final-Report,"In doing so, the 
+United States must ensure that effective policies and 
+processes are in place to guide such actions consistent 
+with the rule of law and adequate risk assessments."
+23,CSC-Final-Report,"Finally, the National Cyber Strategy should articulate 
+a framework for how the U.S. government should put 
+the approach into operation that is organized around six 
+pillars"
+23,CSC-Final-Report,"Therefore, the U.S. government should develop a mul-
+titiered signaling strategy aimed at altering adversaries’ 
+decision calculus and addressing risks of escalation"
+23,CSC-Final-Report," The strategic level of signaling should involve overt, 
+public diplomatic signaling through traditional 
+mechanisms that have already been established for 
+other domains, as well as private diplomatic com-
+munications through mechanisms such as hotlines 
+and other nonpublic channels"
+23,CSC-Final-Report,"The operational and tactical levels should involve 
+clandestine, protected, and covert signaling (includ-
+ing through non-cyber means) that is deliberately 
+coupled with cyber operations."
+23,CSC-Final-Report,"A signaling strategy should also include a framework to 
+guide when and under what conditions the U.S. govern-
+ment will voluntarily self-attribute cyber operations and 
+campaigns for the purposes of signaling capability and 
+intent to various audiences"
+23,CSC-Final-Report,"Therefore, the U.S. 
+government should promulgate a new declaratory 
+policy around a use-of-force threshold."
+23,CSC-Final-Report,"Specifically, 
+the U.S. government should publicly convey that it 
+will respond using swift, costly, and, where possible, 
+transparent consequences against cyber activities that 
+constitute what the United States defines as a use of 
+force."
+23,CSC-Final-Report,"the U.S. government should announce 
+a second declaratory policy. This policy should 
+clearly state that the United States will respond 
+using cyber and non-cyber capabilities to counter 
+and impose costs against adversary cyber campaigns 
+below a use-of-force threshold."
+23,CSC-Final-Report,"Essentially, the U.S. government should publicly 
+declare that it will defend forward, and couple its 
+declaration with decisive and consistent action 
+across all elements of national power."
+23,CSC-Final-Report," Congress should create House Permanent Select and Senate Select Committees on 
+Cybersecurity to consolidate budgetary and legislative jurisdiction over cybersecurity issues, as 
+well as traditional oversight authority"
+23,CSC-Final-Report,"the 
+Commission recommends establishing a Permanent 
+Select Committee on Cybersecurity in the House and a 
+Select Committee on Cybersecurity in the Senate."
+23,CSC-Final-Report,"like the Select Committees on Intelligence, 
+these committees should have a membership structure 
+designed to encourage cross-committee collaboration and the sharing of best practices. "
+23,CSC-Final-Report,"The final committee 
+composition should be proportionate to each party’s 
+composition of the House, and one more seat given to 
+the majority party in the Senate; to promote institutional 
+knowledge, committee members should be exempt from 
+any term limits."
+23,CSC-Final-Report,"Congress should reestablish and fund the Office of 
+Technology Assessment (OTA), or another similar 
+agency, to advise both chambers on cyber and technol-
+ogy policy issues."
+23,CSC-Final-Report,"Congress should establish a National Cyber Director (NCD), within the Executive Ofﬁce of the 
+President, who is Senate-conﬁrmed and supported by the Ofﬁce of the National Cyber Director. "
+23,CSC-Final-Report,"Congress should strengthen the Cybersecurity and Infrastructure Security Agency (CISA) in 
+its mission to ensure national resilience of critical infrastructure, to promote a more secure cyber 
+ecosystem, and to serve as the central civilian cybersecurity authority to support federal, state 
+and local, and private-sector cybersecurity efforts"
+23,CSC-Final-Report,"Congress should give the 
+Director of CISA a five-year term and elevate the position 
+to level II of the Executive Schedule, or equivalent to 
+a Deputy Secretary and to Military Service Secretaries. 
+Congress should also consider making the posts of 
+Assistant Director career positions to provide greater 
+consistency and continuity."
+23,CSC-Final-Report,"Congress should increase 
+CISA’s funding for administrative and programs support, 
+so that it can enhance current operations and transition 
+from being a headquarters element to an operational 
+agency within DHS. "
+23,CSC-Final-Report,"Congress should review CISA’s budget 
+and consider giving proportionally greater resources to 
+projects and programs intended to support private-sector 
+cybersecurity, to promote public-private integration, and 
+to increase situational awareness of threat."
+23,CSC-Final-Report,"Congress 
+should consider providing stable multiyear funding to 
+ensure the flexibility necessary to build lasting analytical 
+capability across multiple budget years."
+23,CSC-Final-Report,"n developing the resources and 
+support model, the executive branch and Congress 
+should examine current CISA facilities and assess 
+their suitability to fully support current and projected 
+mission requirements nationally and regionally. "
+23,CSC-Final-Report,"The 
+General Services Administration should provide a report 
+to Congress including recommendations for further resources to procure or build a new facility or augment 
+existing facilities to ensure sufficient size and accommo-
+dations for the integration of personnel from the private 
+sector and other departments and agencies to meet the 
+goals of this report. "
+23,CSC-Final-Report,"Congress and the 
+U.S. government should strengthen CISA’s ability to aid 
+the public and private sectors in recovering from a sig-
+nificant cyber incident. "
+23,CSC-Final-Report,"The agency should be sufficiently 
+funded and empowered to coordinate whole-of-govern-
+ment efforts in managing incidents that are not met with 
+an “emergency declaration,” and to seamlessly integrate 
+with the Federal Emergency Management Agency when 
+they are. "
+23,CSC-Final-Report,"Congress should recognize 
+and provide sufficient resources to support CISA’s 
+emergent efforts to identify and mitigate risks to 
+national critical functions and to serve as the primary 
+federal entity responsible for organizing and coordinat-
+ing whole-of-government, public-private activities to 
+identify, assess, and manage national risk"
+23,CSC-Final-Report,"Congress 
+should codify CISA responsibilities and ensure sufficient 
+resources for its national risk management programs, 
+including its support to sector-specific agencies, its 
+critical role in Continuity of the Economy planning (rec-
+ommendation 3.2), and its identification of systemically 
+important critical infrastructure (recommendation 5.1)."
+23,CSC-Final-Report,"Congress and the 
+U.S. government should strengthen CISA’s operational 
+capabilities by equipping it with the resources, tools, 
+and authorities necessary to fully integrate the govern-
+ment’s and the private sector’s understanding of cyber 
+threat into a cohesive, national picture and coordinated 
+action"
+23,CSC-Final-Report,"Congress should increase 
+government support to systemically important critical 
+infrastructure (recommendation 5.1), establish and fund 
+a Joint Collaborative Environment (recommendation 
+5.2), increase integration among federal cyber centers and 
+CISA (recommendation 5.3), and establish a Joint Cyber 
+Planning Cell (recommendation 5.4). "
+23,CSC-Final-Report,"The Secretary of 
+Homeland Security should establish a Cybersecurity 
+Advisory Committee to advise, consult, and make 
+recommendations to CISA on policies, programs, and 
+rulemakings, among other items, to account for non-fed-
+eral interests."
+23,CSC-Final-Report,"The committee should be exempt from 
+the requirements of the Federal Advisory Committee 
+Act and be composed of state, local, and private-sector representatives from across the 16 critical infrastructure 
+sectors. "
+23,CSC-Final-Report,"Congress should strengthen 
+CISA’s ability to conduct continuous threat hunting 
+across .gov networks, which will enhance CISA’s ability to 
+both protect federal civilian networks and provide useful 
+threat intelligence to critical infrastructure"
+23,CSC-Final-Report,"Codify and Strengthen the Cyber 
+Threat Intelligence Integration Center"
+23,CSC-Final-Report,"To ensure adequate resources, Congress should codify 
+and establish CTIIC through legislation, using as a 
+model the 2015 Presidential Memorandum that created 
+the center, and strengthen CTIIC’s ability to carry out its responsibilities, especially in enhancing the quality and 
+speed of attribution"
+23,CSC-Final-Report,"Congress should appropriate the resources necessary 
+for CTIIC to carry out all mission areas enumerated 
+in the 2015 Presidential Memorandum"
+23,CSC-Final-Report,"Congress should appropriate all necessary funds to 
+ensure that CTIIC can reliably provide reimburse-
+ment to departments and agencies for detailees"
+23,CSC-Final-Report,"ODNI should continue existing efforts to improve 
+and expand the office’s cyber mission, including 
+operational and organizational improvements to 
+CTIIC."
+23,CSC-Final-Report,"Strengthen the FBI’s Cyber Mission and 
+the National Cyber Investigative Joint Task 
+Force"
+23,CSC-Final-Report,"Congress and the executive branch should take steps 
+to ensure that the FBI is properly resourced to carry 
+out its cyber mission, perform attribution, strengthen 
+whole-of-government counter-threat campaigns, and 
+enable other agencies’ missions in support of national 
+strategic objectives. "
+23,CSC-Final-Report,"The U.S. government should recruit, develop, and retain a cyber workforce capable of building a 
+defensible digital ecosystem and enabling the agile, effective deployment of all tools of national power 
+in cyberspace"
+23,CSC-Final-Report,"Congress and the executive branch should pass legislation and implement policies designed 
+to better recruit, develop, and retain cyber talent while acting to deepen and diversify the pool 
+of candidates for cyber work in the federal government."
+23,CSC-Final-Report,"Congress should fund research into the current state 
+of the cyber workforce, paths to entry, and demo-
+graphics in coordination with the ongoing work 
+at the Office of Personnel Management (OPM), 
+DHS, the National Science Foundation (NSF), and the National Institute of Standards and Technology 
+(NIST)"
+23,CSC-Final-Report,"New research should also build 
+on emerging work from NICE and others on career 
+paths and certifications."
+23,CSC-Final-Report,"Congress should resource recruiting programs spe-
+cifically designed to target cyber talent and expand 
+current programs that have made demonstrated 
+progress in innovating recruitment"
+23,CSC-Final-Report,"Congress and the executive branch should reinforce 
+and authorize the role of the NICE in coordinating 
+U.S. government efforts to advance cybersecurity 
+workforce development nationwide, and resource the 
+office sufficiently for this role."
+23,CSC-Final-Report,"Congress should require the Government 
+Accountability Office (GAO) to issue a report within 
+one year: (1) estimating how frequently candidates 
+are deterred from pursuing government careers 
+because of delays in issuing security clearances; 
+(2) assessing the effectiveness of current clearance 
+processes at striking a balance between the national 
+security risk of insider threats, and the national 
+security risk of leaving cyber jobs vacant; and (3) 
+recommending a lead agency for developing and 
+implementing a plan for addressing any shortcom-
+ings discovered. "
+23,CSC-Final-Report," Congress should: 
+Direct OPM, NICE, and DoD to design cybersecu-
+rity-specific upskilling and transition assistance pro-
+grams for veterans and transitioning military service 
+members to move into federal civilian cybersecurity 
+jobs."
+23,CSC-Final-Report," Congress should: 
+• Fund DHS, NSF, and OPM to expand the existing 
+CyberCorps: Scholarship for Service program"
+23,CSC-Final-Report," Congress should: 
+Direct OPM to require departments and agencies to 
+develop training for managers to cultivate practices 
+that foster a more diverse cyber workforce and more 
+inclusive work environment"
+23,CSC-Final-Report," Congress should: 
+Require federal cyber contractors to implement 
+known best-practice workplace policies in order to 
+improve employee retention on federal contracts."
+23,CSC-Final-Report," Congress should: 
+• Fund DHS, NSF, and OPM to expand the existing 
+CyberCorps: Scholarship for Service program"
+23,CSC-Final-Report," Congress should: 
+Direct OPM, in partnership with federal depart-
+ments and agencies including NIST and DHS, to 
+issue a report evaluating the potential for a new Civil 
+Service Cyber"
+23,CSC-Final-Report," Congress should: 
+• Fund DHS, NSF, and OPM to expand the existing 
+CyberCorps: Scholarship for Service program"
+23,CSC-Final-Report,"The U.S. government should:
+• Develop a secure online clearinghouse for K-12 
+classroom resources on cybersecurity."
+23,CSC-Final-Report,"Develop work-based learning programs and appren-
+ticeships to supplement classroom learning."
+23,CSC-Final-Report," Support cybersecurity clinics at colleges and uni-
+versities to serve as educational hands-on training 
+opportunities for students while serving as a valuable 
+resource to their community"
+23,CSC-Final-Report,"Expand the existing Centers of Academic Excellence 
+program to encourage cyber coursework in fields 
+such as business, law, and health care."
+23,CSC-Final-Report,"Incorporate cybersecurity into safety curricula for 
+career and technical education programs focused on 
+operational technology users, maintainers, and install-
+ers, particularly in critical infrastructure fields."
+23,CSC-Final-Report,"Promote professional development programs for 
+K-12 teachers that encourage them to model safe, 
+secure, and privacy-aware internet practices in class-
+rooms (outside of specific cybersecurity instruction)"
+23,CSC-Final-Report,"Further explore ways to expand programs such as the 
+FBI Cyber STEM program and CISA’s Cybersecurity 
+Education Training Assistance Program on a national 
+scale."
+23,CSC-Final-Report,"The United States should create a broad like-minded community of allies and partners to maintain and 
+reinforce norms that underpin a favorable cyber landscape"
+23,CSC-Final-Report,"Congress should create and adequately resource, within the U.S. Department of State, the 
+Bureau of Cyberspace Security and Emerging Technologies (CSET), led by an Assistant Secretary 
+of State"
+23,CSC-Final-Report,"To 
+enable the U.S. State Department to form such a coali-
+tion, Congress should create the Bureau of Cyberspace 
+Security and Emerging Technologies (CSET), led by an 
+Assistant Secretary reporting to the Under Secretary for 
+Political Affairs or someone of higher rank."
+23,CSC-Final-Report,"In addition to guiding the formation of a coalition of like-
+minded partners and allies, the bureau should be respon-
+sible for a range of mission sets required to implement 
+layered cyber deterrence."
+23,CSC-Final-Report,"Congress should provide additional funding to this 
+new bureau for its personnel and programs needed to 
+carry out its international cyber mission, especially the 
+mission of building a robust coalition. "
+23,CSC-Final-Report,"The U.S. government 
+should maximize the utility of this approach by strength-
+ening existing bilateral and multilateral relationships, 
+such as the Five Eyes (the intelligence alliance comprising 
+Australia, Canada, New Zealand, the United Kingdom, 
+and the United States) and NATO, and by bringing new 
+nations into the coalition. "
+23,CSC-Final-Report,"Strengthen Norms of Responsible State 
+Behavior in Cyberspace"
+23,CSC-Final-Report,"Take a sector-by-sector approach to norms implementa-
+tion:"
+23,CSC-Final-Report,Discuss norms at head-of-state levels
+23,CSC-Final-Report,Engage in both inclusive and exclusive forums
+23,CSC-Final-Report,"In order to bring more states into the fold, the United 
+States should continue to enter all such forums to discuss 
+responsible state behavior with a diverse group of nations"
+23,CSC-Final-Report,"In addition, the U.S. government should take a 
+multi-stakeholder approach to strengthening norms."
+23,CSC-Final-Report,"Engage Actively and Effectively in 
+Forums Setting International Information and 
+Communications Technology Standards "
+23,CSC-Final-Report,"The U.S. government should more actively and effectively 
+participate in forums setting international information and communications technology (ICT) standards."
+23,CSC-Final-Report,"Congress should empower and sufficiently resource the 
+National Institute of Standards and Technology (NIST)—
+in alignment with the complementary recommendation 
+4.1.2, Expand and Support the National Institute of 
+Standards and Technology Security Work—to facilitate 
+robust and integrated U.S. participation from the federal 
+government, academia, professional societies, and industry 
+in forums setting ICT standards."
+23,CSC-Final-Report,"To participate more effec-
+tively, the U.S. government should send not only technical 
+and standards experts but also diplomats."
+23,CSC-Final-Report,"The proposed 
+National Cyber Director (NCD) should serve as the cen-
+tral coordination point among U.S.-based actors contrib-
+uting to standards bodies."
+23,CSC-Final-Report,"The 
+NCD should consider encouraging U.S. business leaders 
+to participate and collaborate in ICT standards forums 
+to ensure the unified promotion of the most technically 
+secure standards in the private sector"
+23,CSC-Final-Report,"Accordingly, executive branch departments 
+and agencies should, as a matter of regular practice, seek 
+out and whenever practicable implement internation-
+ally agreed-on standards rather than those developed 
+domestically."
+23,CSC-Final-Report,"Improve Cyber Capacity Building and 
+Consolidate the Funding of Cyber Foreign 
+Assistance"
+23,CSC-Final-Report,"The U.S. government should assist allied and part-
+ner countries and organizations to build their cyber 
+capacities."
+23,CSC-Final-Report,"Capacity-building efforts 
+should involve the Department of State as well as the 
+United States Agency for International Development 
+(USAID), Department of Justice (DOJ), Department 
+of the Treasury, International Development Finance 
+Corporation (DFC), Department of Homeland Security (DHS), and other relevant U.S. government 
+entities."
+23,CSC-Final-Report,"The U.S. government should facilitate additional 
+partnerships with foreign law enforcement agencies and 
+better incorporate interagency investigative teams within 
+the overall U.S. strategic approach."
+23,CSC-Final-Report,"In addition, the U.S. government should expand its 
+training programs for foreign law enforcement partners, 
+such as through the Department of State’s International 
+Law Enforcement Academy (ILEA). "
+23,CSC-Final-Report,"Congress should consolidate the Department of State’s 
+foreign assistance funding to facilitate these efforts. A 
+new funding line in the State, Foreign Operations, and 
+Related Programs (SFOPS) appropriations legislation 
+should be created specifically dedicated to building 
+cyber capacity."
+23,CSC-Final-Report,"However, Congress should also consider increasing the 
+budget for building cyber capacity, especially to countries 
+that are being targeted by our adversaries"
+23,CSC-Final-Report,"Improve International Tools for Law 
+Enforcement Activities in Cyberspace"
+23,CSC-Final-Report,"Improve the MLAT/MLAA Process: Mutual Legal 
+Assistance Treaties (MLATs) and Mutual Legal Assistance 
+Agreements (MLAAs) "
+23,CSC-Final-Report,"To make the 
+MLAT/MLAA process more efficient, Congress should 
+take several actions. It should provide DOJ’s Office 
+of International Affairs with administrative subpoena 
+authority, which would expedite MLAT/MLAA pro-
+cessing by bypassing the need to execute hundreds of 
+court orders to obtain basic subscriber information. "
+23,CSC-Final-Report,"To make the 
+MLAT/MLAA process more efficient, Congress should 
+take several actions. It should provide DOJ’s Office 
+of International Affairs with administrative subpoena 
+authority, which would expedite MLAT/MLAA pro-
+cessing by bypassing the need to execute hundreds of 
+court orders to obtain basic subscriber information. In 
+addition, Congress should provide funding to the FBI to 
+help automate the execution of MLAT/MLAA-related 
+search warrants. "
+23,CSC-Final-Report,"Congress should 
+create and fund 12 additional FBI Cyber Assistant Legal 
+Attachés (ALATs) to facilitate intelligence sharing and 
+help coordinate joint cyber operations."
+23,CSC-Final-Report,"Congress should also consider 
+increasing funding for other federal law enforcement agencies to coordinate with foreign law enforcement on 
+cyber investigations."
+23,CSC-Final-Report,"Leverage Sanctions and Trade 
+Enforcement Actions"
+23,CSC-Final-Report,"Congress should codify into law Executive Order 13848, 
+“Executive Order on Imposing Certain Sanctions in 
+the Event of Foreign Interference in a United States 
+Election.”"
+23,CSC-Final-Report,"Furthermore, in cases dealing with unfair trade practices 
+carried out via cyber means, the Office of the United States 
+Trade Representative should consider taking action under 
+Section 301 of the Trade Act of 1974, and the Department 
+of Commerce should consider using the Entity List—part 
+of the Export Administration Regulations—to impose fur-
+ther requirements."
+23,CSC-Final-Report," Improve Attribution Analysis and the 
+Attribution-Decision Rubric"
+23,CSC-Final-Report,"The Office of the Director of National Intelligence 
+(ODNI), in partnership with the private sector through 
+DHS and the FBI, should improve attribution analy-
+sis"
+23,CSC-Final-Report,"In addition, the National Security Council and the 
+NCD, in consultation with the ODNI, should develop 
+an attribution-decision rubric."
+23,CSC-Final-Report,"The NSC should appoint an entity to implement 
+the rubric."
+23,CSC-Final-Report,"Reinvigorate Efforts to Develop Cyber 
+Conﬁdence-Building Measures (CBMs) "
+23,CSC-Final-Report,"The Department of State should reinvigorate the devel-
+opment and exercise of bilateral and multilateral cyber 
+confidence-building measures (CBMs)."
+23,CSC-Final-Report,"The Department of State should continue to develop 
+and implement both regional and global cyber CBMs, 
+together with non-state stakeholders such as pri-
+vate-sector entities."
+23,CSC-Final-Report,"Specifically, the Department of 
+State should build on the CBMs enumerated in the 
+2015 Report of the UN GGE and Decision Document 
+No. 1202 (2016) of the OSCE in the Field of 
+Information and Telecommunications in the Context 
+of International Security."
+23,CSC-Final-Report,"The U.S. government 
+should actively implement CBMs, coordinated by the 
+National Cyber Director, that account for the unique 
+attributes and dynamics of the cyber domain. "
+23,CSC-Final-Report,"To better understand 
+risk at a national level, the United States should clarify 
+and codify the roles played by sector-specific agencies 
+and the Cybersecurity and Infrastructure Security Agency 
+in working together and with the private sector to 
+gather and assess risk information on an ongoing basis."
+23,CSC-Final-Report,"Congress should codify responsibilities and ensure sufﬁcient resources for the Cybersecurity 
+and Infrastructure Security Agency (CISA) and sector-speciﬁc agencies (SSAs) in the identiﬁcation, 
+assessment, and management of national and sector-speciﬁc risk."
+23,CSC-Final-Report,"Congress should codify SSAs into law as “Sector Risk 
+Management Agencies”; establish responsibilities and 
+requirements for identifying, assessing, and assisting in 
+managing risk for the critical infrastructure sectors under 
+their purview; and appropriate the respective agency’s 
+funds necessary to carry out these responsibilities"
+23,CSC-Final-Report,"As 
+a corresponding measure, Congress should recognize 
+CISA’s lead role in national risk management and the 
+functions of the National Risk Management Center"
+23,CSC-Final-Report,"This legislation should clarify roles and responsibilities 
+between these agencies assisting in managing sector-spe-
+cific risks and CISA"
+23,CSC-Final-Report,"To alleviate the issue of inconsistent 
+maturity, this codification should provide the resources 
+necessary for both agencies assisting in managing sector-specific risks and CISA to implement their respon-
+sibilities for their sectors and act as mature, steadfast 
+partners in overall national resilience efforts. "
+23,CSC-Final-Report,"As part 
+of this codification, Congress should direct the U.S. 
+government, in a process led by DHS, to review the 
+current critical infrastructure model, propose revisions 
+based on an updated understanding of risk, and revise 
+the National Infrastructure Protection Plan in accordance 
+with proposed changes. "
+23,CSC-Final-Report,"The updated model should form 
+the basis for one or more presidential determinations that 
+designate a primary Sector Risk Management Agency 
+aligned with each sector."
+23,CSC-Final-Report,"Sector Risk 
+Management Agencies should have the responsibility 
+and be empowered to identify and assess risk within their 
+critical infrastructure sectors, both to inform their own 
+programs and to participate in the more general work 
+of CISA’s cross-sector risk identification and assessment"
+23,CSC-Final-Report,"Congress should ensure that the information necessary to 
+inform this process, such as common interdependencies 
+and vulnerabilities, is protected from public disclosure"
+23,CSC-Final-Report,"Sector Risk Management Agencies should have the responsibility and 
+be empowered to work with industry, including sector-co-
+ordinating councils, and information sharing and analysis 
+centers to identify common intelligence gaps and areas of 
+critical risk or vulnerability so that the intelligence com-
+munity can provide actionable, focused intelligence"
+23,CSC-Final-Report,"Congress should additionally direct the Office of 
+Management and Budget, in coordination with CISA, 
+to establish a process to evaluate the performance of each 
+Sector Risk Management Agency in driving down the 
+risk in its respective sector"
+23,CSC-Final-Report,"This assessment should include the perspective of 
+the private sector and sector-coordinating councils, and 
+be made available to Congress yearly."
+23,CSC-Final-Report,"Government agencies mounting incident response and 
+technical assistance efforts, such as CISA, the Federal 
+Bureau of Investigation (FBI), and, within its authority, 
+the Department of Defense (DoD), should be required 
+to notify Sector Risk Management Agencies when cyber 
+incidents affect an entity within their sector, unless 
+precluded from doing so by a legal constraint or by con-
+siderations of operational sensitivity."
+23,CSC-Final-Report,"This 
+requirement should be protected from public disclosure, 
+with penalties associated with inappropriate disclosure to 
+regulatory or non-federal entities."
+23,CSC-Final-Report," Congress should, in coordination with the 
+Office of Management and Budget and relevant depart-
+ments and agencies, appropriate funds for shared-ser-
+vice programs to enable CISA to support Sector Risk 
+Management Agencies."
+23,CSC-Final-Report,"Establish a Five-Year National Risk 
+Management Cycle Culminating in a Critical 
+Infrastructure Resilience Strategy "
+23,CSC-Final-Report,"To address this shortcoming, Congress should direct 
+the executive branch to establish a five-year National 
+Risk Management Cycle that culminates in a Critical 
+Infrastructure Resilience Strategy. "
+23,CSC-Final-Report,"Congress should direct the executive branch to 
+conduct an initial two-year risk identification 
+and assessment of critical infrastructure based on 
+currently defined national critical functions. "
+23,CSC-Final-Report,"Congress should also direct the executive branch 
+to establish processes and procedures to establish a 
+five-year National Risk Management Cycle, includ-
+ing defining procedures for identifying, assessing, 
+and prioritizing risks and translating this under-
+standing into strategy, budget, and programmatic 
+priorities for relevant departments and agencies. "
+23,CSC-Final-Report,"Risk identification and assessments formed in the guided, and updated through regular exercises, such 
+as the Biennial National Cyber Tabletop Exercise 
+(recommendation 3.3.5).
+cycle should directly inform and culminate in a 
+Critical Infrastructure Resilience Strategy, which 
+will set programmatic and budgetary priorities to be 
+implemented in the following five-year National Risk 
+Management Cycle."
+23,CSC-Final-Report,"Establish a National Cybersecurity 
+Assistance Fund to Ensure Consistent and 
+Timely Funding for Initiatives That Underpin 
+National Resilience "
+23,CSC-Final-Report,"To address this shortcoming, Congress should pass a 
+law establishing a National Cybersecurity Assistance 
+Fund for projects and programs aimed at systematically 
+increasing the resilience of public and private entities, 
+thereby increasing the overall resilience of the United 
+States."
+23,CSC-Final-Report,"The fund should have sufficient flexibility to be used 
+in instances in which timely resilience or security 
+investment would neutralize or substantially mitigate 
+an overriding, serious threat to national security, 
+economic security, or public health and safety."
+23,CSC-Final-Report,"The fund should be used only for solutions, projects, 
+and programs for which (1) there is a clearly defined, 
+critical risk to be mitigated, (2) market forces do not 
+provide sufficient private-sector incentives to miti-
+gate the risk without government investment, and 
+(3) there is clear federal need, role, and responsibility 
+to mitigate the risk. "
+23,CSC-Final-Report,"The fund should have sufficient flexibility to be used 
+in instances in which timely resilience or security 
+investment would neutralize or substantially mitigate 
+an overriding, serious threat to national security, 
+economic security, or public health and safety."
+23,CSC-Final-Report,"The United States should establish a national capacity to respond to and recover from a significant cyber 
+event, and provide the government with the authorities necessary to ensure economic continuity and 
+cyber resilience—in partnership with the owners and operators of public- and private-sector critical 
+infrastructure."
+23,CSC-Final-Report,"Congress should direct the executive branch to develop and maintain Continuity of the 
+Economy planning in consultation with the private sector to ensure the continuous operation of 
+critical functions of the economy in the event of a signiﬁcant cyber disruption. "
+23,CSC-Final-Report,"The planning process should include the Department of 
+Homeland Security, Department of Defense, Department 
+of Commerce, Department of the Treasury, Department 
+of Energy, and any other departments or agencies as 
+determined by the President."
+23,CSC-Final-Report,"The executive branch should 
+report back to Congress on the status of its planning effort 
+within one year and provide updates to Congress on a 
+yearly basis thereafter."
+23,CSC-Final-Report,"As part of the planning process, 
+the executive branch should determine any additional 
+authorities or resources that would be required to imple-
+ment plans in the case of a disaster or for the establishment 
+of programs that support and maintain department 
+and agency planning capabilities for Continuity of the 
+Economy efforts."
+23,CSC-Final-Report,"In forming or updating Continuity of 
+the Economy planning, the executive branch should draw 
+on insights from the National Risk Management Cycle 
+and planning should inform the Critical Infrastructure 
+Resilience Strategy (recommendation 3.1.1)."
+23,CSC-Final-Report,"A Continuity of the 
+Economy plan should focus on the national-level distri-
+bution of goods and services necessary for the reliable 
+economic functioning of the United States"
+23,CSC-Final-Report,"Leveraging 
+work on the national critical functions already in devel-
+opment, the plan should outline the key private-sector 
+entities that constitute or are integral to these distribution 
+mechanisms and bear primary responsibility in main-
+taining and operating them for sectors, regions, or the 
+economy as a whole."
+23,CSC-Final-Report,"The plan should establish a 
+framework for rapidly restarting and recovering core func-
+tions in a crisis."
+23,CSC-Final-Report,"Using a schema for setting priorities similar 
+to those used for Continuity of Operations and Continuity 
+of Government, the plan should give precedence to func-
+tions whose disruption could cause catastrophic economic 
+loss, lead to runaway loss of public confidence, imperil 
+human life on a national scale, or undermine response, 
+recovery, or mobilization efforts in a crisis. "
+23,CSC-Final-Report,"The plan should 
+also outline standard operating procedures for plan activa-
+tion, execution, and implementation."
+23,CSC-Final-Report,"Continuity of 
+the Economy planning should identify areas where risk of 
+disruption is so catastrophic that establishment of secure, 
+separate critical systems, including analog or retro systems, 
+would be an effective use of resources. "
+23,CSC-Final-Report,"Continuity of the 
+Economy planning should further review the feasibility of 
+“disconnecting,” or air gapping, critical services or specific 
+industrial control networks if national security concerns 
+overwhelm the need for internet connectivity. "
+23,CSC-Final-Report,"Finally, this 
+work should emphasize the importance of developing plans 
+to mitigate the consequences of successful cyberattacks."
+23,CSC-Final-Report,"Continuity of the 
+Economy planning should identify critical segments 
+of the economy where particular data, preserved in a 
+protected, verified, and uncorrupted format, would be 
+required to quickly restart the economy in the face of 
+disruption or significant cyberattack. "
+23,CSC-Final-Report,"The United States 
+should further explore options to store backup, protected 
+data across borders with allies or partners, particularly in 
+areas where economic disruption in either country could 
+have cascading effects on the global economy."
+23,CSC-Final-Report,"The executive 
+branch should consider whether to include a list of 
+raw materials, industrial goods, and key services whose 
+absence would significantly undermine the ability of the United States to avoid or recover from an economic 
+collapse and a recommendation as to whether the United 
+States should maintain a strategic reserve of those materi-
+als, goods, and services."
+23,CSC-Final-Report,"The executive branch should also con-
+sider mechanisms, when presented with a declaration 
+of national emergency by the President, to ensure the 
+extension of credit to key participants in the national 
+economy when such credit would be necessary to avoid 
+catastrophic economic collapse or would allow the recov-
+ery from such a collapse."
+23,CSC-Final-Report,"DHS and 
+other relevant agencies should expand citizen prepared-
+ness efforts and public awareness mechanisms to be 
+ready for such an event"
+23,CSC-Final-Report,"Congress should codify a “Cyber State of Distress” tied to a “Cyber Response and Recovery 
+Fund” to ensure sufﬁcient resources and capacity to respond to signiﬁcant cyber incidents. "
+23,CSC-Final-Report,"Congress should pass a law 
+codifying a “Cyber State of Distress”—a federal declaration 
+that would trigger the availability of additional resources 
+through a “Cyber Response and Recovery Fund”—to assist 
+SLTT governments and the private sector beyond what s available through conventional technical assistance and 
+cyber incident response programs."
+23,CSC-Final-Report,"Threshold for State of Distress Declaration: The declaration 
+should be made in response to or in anticipation of a “significant cyber incident,” or one that is (or group of 
+related cyber incidents that together are) likely to result 
+in demonstrable harm to the national security interests, 
+foreign relations, or economy of the United States or to 
+the public confidence, civil liberties, or public health and 
+safety of the American people"
+23,CSC-Final-Report,"Congress should establish and appropriate funds to main-
+tain a Cyber Response and Recovery Fund, administered by 
+FEMA and directed by CISA."
+23,CSC-Final-Report,"To take full advantage of the Defense Production Act for 
+cybersecurity issues, the President should issue or amend 
+an executive order that prioritizes and designates respon-
+sibility for “cybersecurity services.” "
+23,CSC-Final-Report,"Designate Responsibilities for 
+Cybersecurity Services under the Defense 
+Production Act"
+23,CSC-Final-Report,"The executive order should designate DHS as the lead 
+agency to identify cybersecurity-related services that 
+are essential to national security and assess the capacity 
+of these services to support national security needs."
+23,CSC-Final-Report,"Under Title VII of the Defense Production Act, the 
+U.S. government should convene the cybersecurity 
+incident response industry to understand the full 
+capacity of their services in steady-state as compared 
+to the capacity that would be required for significant 
+cyber incidents and catastrophic scenarios that have 
+real-world consequences."
+23,CSC-Final-Report,"Clarify Liability for Federally Directed 
+Mitigation, Response, and Recovery Efforts"
+23,CSC-Final-Report,"To address this concern, Congress should pass a law 
+specifying that entities taking, or refraining from taking, 
+action at the duly authorized direction of any agency 
+head, or any other federal official authorized by law, 
+should be insulated from legal liability."
+23,CSC-Final-Report,"This order should ensure that the U.S. government makes 
+all necessary preparations to understand and address gaps 
+in private-sector incident response capacity and prioriti-
+zation in assisting critical infrastructure in responding to 
+and recovering from a significant cyber incident."
+23,CSC-Final-Report,"Covered actions 
+should include any request or order by relevant federal 
+agencies issued to protect against or respond to an 
+emergency or threat relating to a cybersecurity incident 
+impacting national security."
+23,CSC-Final-Report,"Improve and Expand Planning Capacity 
+and Readiness for Cyber Incident Response 
+and Recovery Efforts"
+23,CSC-Final-Report,"Congress should increase planning capacity 
+within DHS to enable the preparation, review, and 
+updating of key planning documents, standard operat-
+ing procedures, standby contracts, and nondisclosure 
+agreements necessary for putting into operation plans 
+for cyber incident response and recovery. "
+23,CSC-Final-Report,"This planning 
+should allow for immediate execution of response plans 
+and mechanisms during a crisis; take into account 
+national, regional, and SLTT implications; and incorpo-
+rate and empower Cyber State of Distress declarations, 
+the Cyber Response and Recovery Fund (recommen-
+dation 3.3), and Continuity of the Economy planning 
+(recommendation 3.2). "
+23,CSC-Final-Report,"The federal government should revise the National 
+Cyber Incident Response Plan (NCIRP)—the plan 
+that details how federal, SLTT, and private entities 
+should respond to and recover from significant cyber 
+incidents impacting critical infrastructure197—by 
+adding scenario-specific and sector-specific annexes 
+drafted together with sector-specific agencies and 
+Sector Coordinating Councils. "
+23,CSC-Final-Report,"The annexes of the NCIRP should account for 
+options to mobilize additional resources to augment 
+the government’s response, including private-sec-
+tor incident responders, the DoD under Defense 
+Support to Civil Authorities, the National Guard, 
+and other SLTT assets."
+23,CSC-Final-Report,"Planning efforts should be integrated and interoper-
+able with existing emergency response and disaster 
+recovery mechanisms and programs operated by 
+federal and SLTT entities."
+23,CSC-Final-Report,"Expand Coordinated Cyber Exercises, 
+Gaming, and Simulation"
+23,CSC-Final-Report,"Congress should support and fund FEMA and CISA in 
+implementing expanded and coordinated cross-sector 
+cyber exercises, gaming, and simulation, as well as sec-
+tor-specific agencies in smaller, sector-specific exercises."
+23,CSC-Final-Report,"These exercises should also be used 
+as the primary mechanism by which the U.S. government 
+exercises Continuity of the Economy planning."
+23,CSC-Final-Report,"Such 
+exercises should also emphasize the importance of ensur-
+ing resilient communications among key stakeholders 
+and continuous engagement with the general public."
+23,CSC-Final-Report,"Establish a Biennial National Cyber 
+Tabletop Exercise"
+23,CSC-Final-Report,"Congress therefore should direct the U.S. 
+government to plan and execute on a 
+biennial basis a national-level cyber table-
+top exercise that involves senior leaders 
+from the executive branch, Congress, 
+state governments, and the private sector, 
+as well as international partners, where 
+appropriate."
+23,CSC-Final-Report,"This “National Cyber Tabletop 
+Exercise” should be organized and 
+led by the National Cyber Director 
+(recommendation 1.3) with the sup-
+port of the DHS, FBI, and DoD, 
+in coordination with sector-specific 
+agencies, state governments, and 
+private-sector partners."
+23,CSC-Final-Report,"The exercise should be used as an 
+opportunity to operationalize, 
+troubleshoot, and inform prepared-
+ness programs such as Continuity 
+of the Economy planning and to 
+test the effectiveness of response and 
+recovery measures such as the Cyber 
+State of Distress and the Cyber Response  
+and Recovery Fund."
+23,CSC-Final-Report,"The exercise should also be used as an opportunity 
+to improve, inform, and guide resilience measures, 
+such as the National Cybersecurity Assistance Fund 
+(recommendation 3.1.2) and other efforts that fall 
+within the National Risk Management Cycle and the 
+National Critical Infrastructure Resilience Strategy 
+(recommendation 3.1.1)."
+23,CSC-Final-Report,"Clarify the Cyber Capabilities and 
+Strengthen the Interoperability of the 
+National Guard"
+23,CSC-Final-Report,"Congress should direct DoD to update existing 
+policies to consider National Guard activities that 
+could be performed and reimbursed under Title 32 
+of the U.S. Code."
+23,CSC-Final-Report,"The National Guard Bureau should promulgate 
+guidance to its constituent cyber units on CISA’s and 
+the FBI’s cyber roles and responsibilities, the agencies’ 
+local presence and capabilities, ways to collaborate 
+during times of stability (e.g., through local multia-
+gency task forces and information-sharing groups), 
+and incident response planning and exercises."
+23,CSC-Final-Report,"The Department of Homeland Security should more 
+regularly integrate state cyber incident response 
+forces, including the National Guard in state active-
+duty status, as part of response and recovery plan-
+ning and exercises and should define mechanisms to 
+ensure interoperability at times of crisis"
+23,CSC-Final-Report,"The role of the National Guard should be assessed 
+and where appropriate incorporated into DHS and 
+executive branch cyber response planning efforts, 
+including the update to the National Cyber Incident 
+Response Plan and annexes."
+23,CSC-Final-Report,"The U.S. government should ensure the security of our elections and resilience of our democracy. Americans’ 
+trust and confidence in their democratic system remain foundational elements of national resilience—and 
+an attractive target for malicious actors."
+23,CSC-Final-Report,"Congress should improve the structure and enhance funding of the Election Assistance 
+Commission (EAC), enabling it to increase its operational capacity to support states and localities 
+in defense of the digital infrastructure underpinning federal elections—including ensuring the 
+widest possible employment of voter-veriﬁable, auditable, paper-based voting systems. "
+23,CSC-Final-Report,"Congress should amend the Help America Vote Act 
+to create a fifth nonpartisan commissioner with an 
+established cybersecurity background in order to vote 
+exclusively on issues of or relating to cybersecurity."
+23,CSC-Final-Report," Congress should increase the EAC’s annual operating 
+budget to enable the hiring of new staff to improve 
+the performance of core responsibilities."
+23,CSC-Final-Report,"The EAC should finalize and release its long-delayed 
+update to the Voluntary Voting System Guidelines 
+and increase the breadth and frequency of its recom-
+mendations and guidance concerning voting systems 
+and processes."
+23,CSC-Final-Report,"Streamline and Modernize Sustained Grant Funding for States 
+to Improve Election Systems: ."
+23,CSC-Final-Report,"Congressional grant funding for 
+election security should occur predictably and regularly, and 
+the EAC should disburse those funds and monitor their 
+expenditure. "
+23,CSC-Final-Report,"At a minimum, grant funds should be used to 
+ensure that states implement voter-verifiable and paper-
+based voting systems, as well as post-election audits."
+23,CSC-Final-Report,"Funds 
+should also be used to ensure that election administrators have sufficient provisional ballots for their eligible voting 
+populations to reduce or eliminate the effect of interference 
+with the voter registration rolls. "
+23,CSC-Final-Report,"ppropriate election security grants sufficient to 
+enable state, local, tribal, and territorial governments 
+to implement voter-verifiable, auditable voting 
+systems, including by replacing outdated voting 
+equipment, building local capacity, and adopting a 
+paper-based backbone."
+23,CSC-Final-Report,"Sustain an annual grant appropriation to provide for 
+sufficient provisional ballots, the implementation of 
+post-election audits, and the ongoing maintenance of 
+systems into the future."
+23,CSC-Final-Report,"Require states to match federal election grant funds 
+at a 70–30 percent federal-state split and engage in 
+long-term planning for their election infrastructure 
+upgrades, including best practices recommended by 
+organizations like the Center for Internet Security"
+23,CSC-Final-Report,"Modernize Campaign Regulations to 
+Promote Cybersecurity"
+23,CSC-Final-Report,"Congress therefore should amend the Federal Election Campaign Act of 1971 (FECA) to allow corporations to 
+provide free and reduced-cost cybersecurity assistance to 
+political campaigns, so long as such assistance is offered on a nonpartisan basis as assessed by neutral and objec-
+tive criteria."
+23,CSC-Final-Report,"The U.S. government should promote digital literacy, civics education, and public awareness 
+to build societal resilience to foreign malign cyber-enabled information operations."
+23,CSC-Final-Report,"Congress should enable the 
+Department of Education by authorizing a grant pro-
+gram funding nongovernmental organizations (NGOs), 
+private-sector entities, and SLTT education agencies both 
+to study how best to improve digital citizenship and to 
+incorporate effective digital literacy curricula in American 
+classrooms at the K-12 level and beyond. "
+23,CSC-Final-Report,"This program 
+should run in tandem with DHS programs and with the 
+collaboration of subject matter experts to develop content 
+on cyber-enabled information operations and other 
+topics of which citizens should be aware."
+23,CSC-Final-Report,"Such curricula 
+should incorporate critical thinking and problem-solving 
+skills, information on implicit vs. explicit messaging, and 
+technology concepts. "
+23,CSC-Final-Report,"Congress should (1) direct the 
+Government Accountability Office (GAO) to evaluate 
+the effectiveness of government spending on cyberse-
+curity awareness efforts, including the “Stop. Think. 
+Connect.” campaign,"
+23,CSC-Final-Report,"Congress should (2) authorize and fund DHS, 
+in coordination with the National Institute of Standards 
+and Technology (NIST) and the National Science 
+Foundation (NSF), to establish a grant program seek-
+ing research and proposals for effective mechanisms to 
+improve, develop, and implement a public awareness and 
+education initiative on cybersecurity."
+23,CSC-Final-Report,"Reform Online Political Advertising to 
+Defend against Foreign Inﬂuence in Elections"
+23,CSC-Final-Report,"The U.S. government should incentivize the creation of more secure technology. Currently, technology 
+companies are under intense market pressure to prioritize being “first to market” over security, an approach 
+that in turn passes risk on to other companies and individuals"
+23,CSC-Final-Report,INCENTIVIZE GREATER SECURITY IN THE MARKETS FOR TECHNOLOGY
+23,CSC-Final-Report,"Congress should establish and fund a National Cybersecurity Certiﬁcation and Labeling 
+Authority empowered to establish and manage a program for voluntary security certiﬁcations and 
+labeling of information and communications technology products"
+23,CSC-Final-Report,"Congress should pass a law directing 
+the Department of Commerce, in coordination with 
+the Department of Homeland Security (DHS) and the 
+Department of Defense (DoD), to hold a competitive 
+bid for a nonprofit, nongovernmental organization to 
+be designated and funded as the National Cybersecurity 
+Certification and Labeling Authority."
+23,CSC-Final-Report,"This organization 
+would be charged with establishing and managing a vol-
+untary cybersecurity certification and labeling program for 
+information and communication technologies."
+23,CSC-Final-Report,"This des-
+ignation should last five years and carry with it sufficient 
+funding for its operational costs and the programmatic 
+activities necessary to carry out its mission. "
+23,CSC-Final-Report,"The National 
+Cybersecurity Certification and Labeling Authority should 
+be overseen by a committee chaired by the Department of 
+Commerce and DHS, with membership from DoD, the 
+Department of Energy, and the Federal Trade Commission 
+(FTC). "
+23,CSC-Final-Report,"The law should also empower the FTC to set and 
+levy fines if it is found that companies are falsely attesting 
+to a standard for certification, are intentionally mislabeling 
+products, or have failed to maintain the standard to which 
+they have attested."
+23,CSC-Final-Report,"Any certification and 
+labeling work should build on existing endeavors in and 
+outside of government, including such efforts as the 
+Critical Technology Security Centers (recommendation 
+4.1.1), the Cyber Independent Testing Laboratory, the 
+Digital Standard, and the Software Bills of Material work 
+at the National Telecommunications and Information 
+Administration (NTIA)."
+23,CSC-Final-Report,"The National 
+Cybersecurity Certification and Labeling Authority 
+should be established and empowered to publicly certify 
+products that vendors have attested meet and comply 
+with secure product development best practices and other 
+cybersecurity standards identified by the authority. "
+23,CSC-Final-Report,"like the organics certifying 
+program run by the U.S. Department of Agriculture, 
+the National Cybersecurity Certification and Labeling 
+Program should be empowered to define criteria and a 
+process for accrediting nongovernmental organizations as 
+certifying agents."
+23,CSC-Final-Report,"In coordination with the 
+National Institute of Standards and Technology (NIST) 
+and subject matter experts across the federal govern-
+ment, academia, relevant nongovernmental organiza-
+tions, and the private sector, the National Cybersecurity"
+23,CSC-Final-Report,"Certification and Labeling Authority should be charged 
+with defining and establishing a set of metrics for 
+quantifying and scoring the security of hardware and 
+software. "
+23,CSC-Final-Report,"This scoring regime should differentiate 
+between product type and intended operating environ-
+ment, setting higher scoring metrics for products that 
+have systemic industrial applications."
+23,CSC-Final-Report,"he National 
+Cybersecurity Certification and Labeling Authority should 
+work with the private sector to standardize language 
+and develop a labeling regime to provide transparent information on the characteristics and constituent compo-
+nents of a software or hardware product, including those 
+that contribute to the security of a product or service. "
+23,CSC-Final-Report,"The 
+authority should also establish a mechanism by which 
+product developers can educate users about these charac-
+teristics and components, providing this information for 
+both product labeling and public posting."
+23,CSC-Final-Report,"Cybersecurity Certification and Labeling Authority should 
+identify and integrate ongoing public, private, and interna-
+tional efforts to develop security standards, frameworks, and certifications"
+23,CSC-Final-Report,"This work should build on, but not 
+be limited to, existing efforts at the Department of 
+Commerce to develop software bills of material and the 
+DoD’s Cybersecurity Maturity Model Certification. "
+23,CSC-Final-Report,"Within five years the executive branch should consider 
+updating federal procurement regulations and guidelines, 
+including the Federal Acquisition Regulations, to require 
+National Cybersecurity Certification and Labeling 
+Authority certifications and labeling for certain infor-
+mation technology products and services procured by 
+the federal government."
+23,CSC-Final-Report,"The executive branch should be 
+required to report to Congress on its decision to require 
+National Cybersecurity Certification and Labeling 
+Authority certifications and labeling under Federal 
+Acquisition Regulations, the extent of these requirements, 
+or an explanation if no action was taken"
+23,CSC-Final-Report,"Congress should direct and appropriate 
+fund for DHS, in partnership with the Department 
+of Commerce, Department of Energy, Office of the 
+Director of National Intelligence, and DoD, to com-
+petitively select, designate, and fund up to three Critical 
+Technology Security Centers in order to centralize efforts 
+directed toward evaluating and testing the security of 
+devices and technologies that underpin our networks 
+and critical infrastructure."
+23,CSC-Final-Report,"The Centers should be focused on technologies critical 
+to the security of the national cyber ecosystem and of 
+critical infrastructure."
+23,CSC-Final-Report,"To 
+the greatest extent possible, these centers should be 
+designated from existing efforts and institutions, such 
+as ongoing industrial control system work at the Idaho 
+National Lab, rather than created as new entities"
+23,CSC-Final-Report,"Create or Designate Critical Technology 
+Security Centers"
+23,CSC-Final-Report,"Expand and Support the National 
+Institute of Standards and Technology 
+Security Work"
+23,CSC-Final-Report,"Congress should increase funding in support of NIST’s 
+work on cybersecurity."
+23,CSC-Final-Report,"Routinely update industry-wide frameworks and stan-
+dards, including the NIST Cybersecurity Framework. "
+23,CSC-Final-Report,"Develop and harmonize standards for secure technol-
+ogy development, building on ongoing work on the 
+secure software development lifecycle."
+23,CSC-Final-Report,"Develop and harmonize standards for specific 
+processes, including standards for vulnerability and 
+patch management, and provide lasting institutional 
+support for the National Vulnerability Database, 
+Common Vulnerabilities and Exposures program, 
+and the Cybersecurity and Infrastructure Security 
+Agency’s (CISA) vulnerability disclosure work"
+23,CSC-Final-Report,"congress should pass a law establishing that ﬁnal goods assemblers of software, hardware, and 
+ﬁrmware are liable for damages from incidents that exploit known and unpatched vulnerabilities"
+23,CSC-Final-Report,"o encourage final goods assemblers to shorten 
+the vulnerability lifecycle by more quickly developing and 
+issuing patches, the U.S. government should establish 
+a duty of care in law."
+23,CSC-Final-Report,"Congress should therefore enact 
+legislation establishing that final goods assemblers of soft-
+ware, hardware, and firmware are liable for damages from 
+incidents that exploit vulnerabilities that were known at 
+the time of shipment or discovered and not fixed within 
+a reasonable amount of time. "
+23,CSC-Final-Report,"The law should establish 
+expectations that final goods assemblers are responsible 
+for producing security patches for as long as the product or service is supported (as disclosed at the time of sale) 
+or for a year after the last function-enhancing patch is 
+released, whichever is later"
+23,CSC-Final-Report,"As part of these measures’s implementation, Congress 
+should direct the Federal Trade Commission to establish 
+a regulation mandating transparency from final goods 
+assemblers."
+23,CSC-Final-Report,"This regulation should levy requirements that 
+make it easier for the end users or purchaser to under-
+stand how a final goods assembler finds, logs, discloses, 
+and retains vulnerabilities. "
+23,CSC-Final-Report,"The regulation should also 
+require disclosure of known, unpatched vulnerabilities in 
+a good or service at the time of sale."
+23,CSC-Final-Report,"The regulation 
+should account for common methods by which a vulner-
+ability would be made known to a software or hardware 
+developer or manufacturer—including vulnerabilities 
+publicly disclosed through existing public databases, such 
+as the National Vulnerability Database and Common 
+Vulnerabilities and Exposures program;235 vulnerabilities 
+reported to the software or hardware developer by a third 
+party; and vulnerabilities discovered by the software or 
+hardware developer themselves."
+23,CSC-Final-Report,"The regulation 
+should require that final goods assemblers, as well as 
+the software and hardware component developers and 
+manufacturers, establish a publicly accessible process for vulnerability reporting, retain records documenting 
+when a vulnerability was made known to or discovered 
+by the company, and maintain a vulnerability disclosure 
+and patching policy for their products that conforms 
+to the requirements set out under this regulation. "
+23,CSC-Final-Report,"the 
+regulation should therefore acknowledge and encourage 
+the concept of coordinated vulnerability disclosure—
+the process by which the discoverer of a vulnerability 
+reports it directly to the vendor responsible for the 
+software’s maintenance—building on earlier work by 
+CISA and the NTIA."
+23,CSC-Final-Report,"Incentivize Timely Patch 
+Implementation"
+23,CSC-Final-Report,"The U.S. government should endeavor to change private-sector cybersecurity behavior, encouraging 
+more secure practices by users and organizations."
+23,CSC-Final-Report,"armed with a greater understanding of 
+good practices, the U.S. government should use all available instruments to craft incentives to change 
+behavior at large scale, including shaping market forces like the insurance market, crafting regulations, and 
+changing federal procurement practices. "
+23,CSC-Final-Report,"Congress should establish a Bureau of Cyber Statistics charged with collecting and 
+providing statistical data on cybersecurity and the cyber ecosystem to inform policymaking and 
+government programs."
+23,CSC-Final-Report,"congress should establish a Bureau of Cyber Statistics 
+within the Department of Commerce, or another 
+department or agency, that would act as the government 
+statistical agency that collects, processes, analyzes, and 
+disseminates essential statistical data on cybersecurity, 
+cyber incidents, and the cyber ecosystem to the American 
+public, Congress, other federal agencies, state and local 
+governments, and the private sector. "
+23,CSC-Final-Report,"The Bureau should be 
+empowered and sufficiently funded to establish programs 
+and make purchases required to collect the data necessary 
+to inform its analysis."
+23,CSC-Final-Report,"Departments and agencies should assist the Bureau in its 
+work, making available data sets as needed, and to the 
+greatest extent practicable, in furtherance of its work."
+23,CSC-Final-Report,"In the authorizing legislation, 
+Congress should mandate that relevant departments 
+and agencies, as well as companies that regularly col-
+lect cyber incident data as a part of their business, are 
+required to provide aggregated, anonymized, minimized 
+data on cyber incidents to inform statistical analysis on a yearly basis"
+23,CSC-Final-Report,"the law should also insulate 
+these private companies from liability associated with 
+disclosing minimized, anonymized, and aggregated data 
+to the Bureau."
+23,CSC-Final-Report,"Authorizing legislation 
+should ensure that the aggregated and anonymized data 
+collected is insulated from public disclosure, the collec-
+tion and retention of personally identifiable information 
+is minimized, and, in the case of cyber incidents, the 
+identity of victims is protected."
+23,CSC-Final-Report,"In addition, legislation 
+should establish safeguards against or punitive measures 
+for the disclosure of raw data to regulatory agencies or 
+non-federal entities"
+23,CSC-Final-Report,"The Bureau 
+should be funded and equipped to host academics as well 
+as private-sector and independent security researchers as a 
+part of extended exchanges. "
+23,CSC-Final-Report,"The purpose of this program 
+should be to ensure that the Bureau can benefit from new 
+methods and techniques of data and statistical analysis 
+and that academia and the public can benefit from the 
+public-interest research sourced from its data sets"
+23,CSC-Final-Report,"Congress should resource and direct the Department of Homeland Security to resource 
+a federally funded research and development center to work with state-level regulators in 
+developing certiﬁcations for cybersecurity insurance products."
+23,CSC-Final-Report,"thus, to bring to maturity 
+and improve the market for cybersecurity insurance, 
+Congress should appropriate funds and direct DHS to 
+resource a Federally Funded Research and Development 
+Center (FFRDC) to develop models for underwriter and 
+claims adjuster training and certification."
+23,CSC-Final-Report,"In addition, 
+the program should develop certification frameworks 
+for cybersecurity insurance products in consultation and 
+coordination with state insurance regulators."
+23,CSC-Final-Report,"The FFRDC should work 
+with insurers, state regulators, and experts in cybersecu-
+rity risk management to develop curricula and training 
+courses for cyber insurance underwriters required under a 
+cyber insurance underwriter certification."
+23,CSC-Final-Report,"The FFRDC 
+should work with insurers, state regulators, and cyberse-
+curity risk management experts to develop training and 
+certification models for cyber claims adjusters."
+23,CSC-Final-Report,"working with state insurance regulators and the 
+public-private working group on pricing and modeling 
+cyber risk (recommendation 4.4.1), the FFRDC should 
+develop cybersecurity product certifications based on a 
+common lexicon and security standards."
+23,CSC-Final-Report,"Establish a Public-Private Partnership 
+on Modeling Cyber Risk"
+23,CSC-Final-Report,"the executive branch should establish a public-private 
+working group at DHS to convene insurance companies 
+and cyber risk modeling companies to collaborate in 
+pooling and leveraging available statistics and data that 
+can inform innovations in cyber risk modeling. "
+23,CSC-Final-Report,"Develop frameworks and research methodologies for 
+understanding and accurately pricing cyber risk"
+23,CSC-Final-Report,"Conduct research on the applicability and utility of 
+common frameworks, controls, and “essentials” as 
+baseline requirements for reducing premiums in pric-
+ing insurance risk, such as the NIST Cybersecurity 
+Framework and the International Organization 
+for Standardization/International Electrotechnical 
+Commission (ISO/IEC) 27000 standards family."
+23,CSC-Final-Report,"Identify common areas of interest for pooling 
+anonymized data from which to derive better, more 
+accurate risk models."
+23,CSC-Final-Report,"Explore the Need for a Government 
+Reinsurance Program to Cover Catastrophic 
+Cyber Events"
+23,CSC-Final-Report,"Incentivize Information Technology 
+Security through Federal Acquisition 
+Regulations and Federal Information Security 
+Management Act Authorities"
+23,CSC-Final-Report,"The executive branch should direct the Federal 
+Acquisition Regulation Council and the Office of 
+Management and Budget to update its cybersecurity 
+regulations in the Federal Acquisition Regulations and 
+cybersecurity guidance under Federal Information 
+Security Management Act at least every five years, to 
+account for changing cybersecurity standards, and explore 
+ways to integrate and fully account for existing models 
+and frameworks, such as the Cybersecurity Maturity 
+Model Certification, in Federal Acquisition Regulations."
+23,CSC-Final-Report,"Amend the Sarbanes-Oxley Act 
+to Include Cybersecurity Reporting 
+Requirements"
+23,CSC-Final-Report,"To harmonize and clarify cybersecurity oversight and 
+reporting requirements for publicly traded companies, 
+Congress should amend the Sarbanes-Oxley Act to 
+explicitly account for cybersecurity. "
+23,CSC-Final-Report,"Add a definition of an “information system,” to 
+mean “a set of activities, involving people, processes, 
+data, or technology, that enable the issuer to obtain, 
+generate, use, and communicate transactions and 
+information to maintain accountability and measure 
+and review the issuer’s performance or progress 
+toward the achievement of objectives.”"
+23,CSC-Final-Report,"Specify corporate responsibility requirements for 
+the security of information systems, including the 
+metrics and records publicly traded companies must 
+keep regarding risk assessments, determinations, and 
+decisions; cyber hygiene; and penetration testing and 
+red-teaming results, including a record of metrics 
+relating to the speed of their detection, investigation, 
+and remediation."
+23,CSC-Final-Report,"Mandate that public companies maintain, as part of 
+this requirement, internal records of cyber risk assess-
+ments, so that a full evaluation of cybersecurity risks 
+can be judged in acquisition or in legal or regulatory 
+action."
+23,CSC-Final-Report,"Require management assessments and attestation of 
+plans to manage risk from information systems and 
+data."
+23,CSC-Final-Report,"The U.S. government should undertake efforts to better leverage the scale of information and 
+communications technology (ICT) enablers in cybersecurity—both by empowering companies that can 
+deploy security across the ecosystem and by incentivizing the adoption of the scalable security solutions 
+they offer. "
+23,CSC-Final-Report,"The National Cybersecurity Certiﬁcation and Labeling Authority, in consultation with the 
+National Institute of Standards and Technology, the Ofﬁce of Management and Budget, and the 
+Department of Homeland Security, should develop a cloud security certiﬁcation."
+23,CSC-Final-Report,"To accomplish this, DHS, in consultation 
+with NIST and OMB, should work with the National 
+Cybersecurity Certification and Labeling Authority (rec-
+ommendation 4.1) to develop a secure cloud certification. 
+In developing this certification, the U.S. government 
+should engage with and take lessons from the European 
+Union Agency for Cybersecurity, which is currently in 
+the early stages of developing certifications."
+23,CSC-Final-Report,"The National Cybersecurity Certification 
+and Labeling Authority should serve as the certifying 
+agent for the cloud security certification."
+23,CSC-Final-Report," Congress should direct NIST to 
+lead, in coordination with the National Cybersecurity 
+and Certification and Labeling Authority and DHS, a public-private standards-making process for a secure cloud 
+standard."
+23,CSC-Final-Report,"As part of its certification 
+development process, the National Cybersecurity 
+Certification and Labeling Authority should work with 
+NIST to develop metrics for security offered by which 
+cloud services can be compared to allow users to more 
+easily differentiate between more and less secure offerings, 
+and more clearly communicate what aspects of security 
+are the responsibility of the user rather than the provider."
+23,CSC-Final-Report,"Within five years, the executive 
+branch should consider updating and simplifying the 
+Federal Risk and Authorization Management Program 
+(FedRAMP) requirements to require that all non-national 
+security cloud services procured by the federal govern-
+ment meet the identified standards and possess the cloud 
+security certification. "
+23,CSC-Final-Report,"the executive branch should be 
+required to report to Congress on its decision to require 
+National Cybersecurity Certification and Labeling 
+Authority cloud security certifications under FedRAMP, 
+on the extent of these requirements, or an explanation if 
+no action was taken."
+23,CSC-Final-Report,"Incentivize the Uptake of Secure 
+Cloud Services for Small and Medium-Sized 
+Businesses and State, Local, Tribal, and 
+Territorial Governments"
+23,CSC-Final-Report,"Congress 
+should direct the Department of Commerce, Small 
+Business Administration, and DHS to conduct a six-
+month study to define the method of incentivizing the 
+adoption of these services, and report their findings and 
+recommendations to Congress. "
+23,CSC-Final-Report,"In conducting this study, the U.S. government 
+should focus on the incentivization and adoption of 
+services that meet the certifications and requirements 
+outlined in the recommendation above"
+23,CSC-Final-Report,"Develop a Strategy to Secure 
+Foundational Internet Protocols and Email"
+23,CSC-Final-Report,"Congress should pass a law that does the 
+following: Requires the NTIA and DHS to develop a strategy 
+and recommendations, in consultation with internet 
+service providers and civil society and academic 
+experts, to define common, implementable guidance 
+for securing the DNS and BGP"
+23,CSC-Final-Report,"Congress should pass a law that does the 
+following: Requires DHS to develop a strategy and recom-
+mendations, in consultation with the information 
+technology sector to implement DMARC at scale, 
+across all U.S.-based email providers. "
+23,CSC-Final-Report,"Congress should pass a law that does the 
+following: Requires DHS and the NTIA to report back to 
+Congress within one year with a plan to implement 
+security across the DNS, BGP, and email."
+23,CSC-Final-Report,"Strengthen the U.S. Government’s 
+Ability to Take Down Botnets"
+23,CSC-Final-Report," In consultation with the 
+Department of Justice, Congress should enact Section 4 
+of the International Cybercrime Prevention Act."
+23,CSC-Final-Report,"The United States should identify industries and technologies critical to national and economic security and 
+take steps to reduce vulnerability at a macroeconomic level (e.g., industrial strategy) and at a microeconomic 
+level (e.g., supply chain risk management)."
+23,CSC-Final-Report,"To better manage these risks, the 
+United States should develop a more robust capacity to identify and protect against untrusted suppliers while 
+ensuring the presence of viable alternative suppliers for critical technologies through strategic investment."
+23,CSC-Final-Report,"Congress should direct the U.S. government to develop and implement an information and 
+communications technology industrial base strategy to ensure more trusted supply chains and the 
+availability of critical information and communications technologies"
+23,CSC-Final-Report,"Congress should direct the U.S. government to assess the 
+United States’ information and communications technol-
+ogy (ICT) supply chain and develop and implement an 
+ICT industrial base strategy to reduce dependency and 
+ensure greater security and availability of these critical 
+technologies. "
+23,CSC-Final-Report,"this strategy should focus on ensuring the 
+availability and integrity of trusted components, prod-
+ucts, and materials necessary for the manufacture and 
+development of ICTs deemed most critical to national 
+and economic security. "
+23,CSC-Final-Report,"As part of this effort, the U.S. 
+government should assess the ability of its current struc-
+ture, resources, and authorities to inform, develop, and 
+execute such a strategy and provide recommendations to 
+strengthen them. "
+23,CSC-Final-Report,"Given the global, interconnected nature 
+of trade and supply chains, the strategy should be formed 
+in coordination with trusted partners and allies."
+23,CSC-Final-Report,"In 
+addition, the strategy should fully utilize the authorities 
+available to the federal government, including but not 
+limited to the Defense Production Act."
+23,CSC-Final-Report,"In form-
+ing the strategy, the U.S. government should con-
+duct an in-depth analysis of market conditions to comprehensively assess foreign dependencies affecting 
+critical information and communication technologies."
+23,CSC-Final-Report,"Clearly identify critical technologies, components, 
+and materials that the industrial base strategy seeks 
+to protect."
+23,CSC-Final-Report,Identify domestic and allied ICT industrial capacity. 
+23,CSC-Final-Report,"Identify key areas of risk where a foreign adversary 
+could restrict supply of a critical technology or intro-
+duce supply chain compromise at large scale. "
+23,CSC-Final-Report,Identify barriers to a market-based solution.
+23,CSC-Final-Report,"The strategy should clearly outline national 
+strategic priorities and estimate what federal resources 
+need to be allocated to address and reduce dependencies 
+on untrusted foreign technology and bolster domestic or 
+allied production to ensure viable alternatives. "
+23,CSC-Final-Report,"The strategy should clearly outline national 
+strategic priorities and estimate what federal resources 
+need to be allocated to address and reduce dependencies 
+on untrusted foreign technology and bolster domestic or 
+allied production to ensure viable alternatives."
+23,CSC-Final-Report,"The strat-
+egy should define lines of effort, assign responsibilities, 
+and issue accompanying executive orders or presidential 
+determinations necessary to carry it out. "
+23,CSC-Final-Report,"Further, the 
+executive branch should work with Congress to identify 
+additional resources and programmatic, legislative, or 
+structural changes necessary for its implementation."
+23,CSC-Final-Report,"In addition to the amend-
+ments recommended above, Congress should amend the Defense Production Act to clarify and expand the 
+definition of “national defense” to include mitigating 
+potential dependencies on foreign-sourced information 
+and communications technology."
+23,CSC-Final-Report,"In addition, Congress 
+should consider expanding the definition of “industrial 
+resources” to include those needed to maintain a modern 
+domestic industrial base."
+23,CSC-Final-Report," Commit Signiﬁcant and Consistent 
+Funding toward Research and Development 
+in Emerging Technologies"
+23,CSC-Final-Report,"To ensure continuity of effort, Congress should appro-
+priate consistent funding and task the executive branch, 
+including the National Science Foundation, the Defense 
+Advanced Research Projects Agency, and the Intelligence Advanced Research Projects Agency, to develop and 
+implement the Office of Science and Technology Policy’s 
+2021 research and development priorities"
+23,CSC-Final-Report,"Strengthen the Capacity of the 
+Committee on Foreign Investment in the 
+United States"
+23,CSC-Final-Report,"Direct the Committee to more aggressively review 
+bankruptcy buyouts and restructuring, as well 
+as early-stage venture capital and private equity 
+investment."
+23,CSC-Final-Report,"nvestment.
+• Direct departments and agencies to identify incon-
+sistencies, gaps, or redundancies in programs across 
+the federal government meant to support department 
+and agency CFIUS reviews and compliance work, 
+and identify areas where FIRRMA funds can be used 
+to centralize or consolidate programs as managed 
+services to fill gaps and reduce redundancies."
+23,CSC-Final-Report,"Direct departments and agencies to conduct a 
+comprehensive review of budgetary shortfalls for 
+programs and work envisioned under FIRRMA and 
+work with Congress to ensure that departments and 
+agencies have funding sufficient to carry out their 
+respective CFIUS programs."
+23,CSC-Final-Report,"Invest in the National Cyber Moonshot 
+Initiative"
+23,CSC-Final-Report,STRENGTHEN NATIONAL SYSTEMIC DATA SECURITY
+23,CSC-Final-Report,"Congress should pass a national data security and privacy protection law establishing and 
+standardizing requirements for the collection, retention, and sharing of user data."
+23,CSC-Final-Report,"Congress should pass legislation standardizing require-
+ments that are enduring for the safe and appropriate 
+handling of personal data. "
+23,CSC-Final-Report," this legislation should establish: National minimum common standards for the col-
+lection, retention, analysis, and third-party sharing of 
+personal data"
+23,CSC-Final-Report," this legislation should establish: Definitions of personal data, to include that which 
+can be linked, directly or indirectly, to individuals or 
+households. National minimum common standards for the col-
+lection, retention, analysis, and third-party sharing of 
+personal data"
+23,CSC-Final-Report," this legislation should establish: Thresholds for what entities are covered by this 
+legislation. "
+23,CSC-Final-Report," this legislation should establish: Timelines for deleting, correcting, or porting per-
+sonal data upon request by the appropriate persons."
+23,CSC-Final-Report," this legislation should establish: A clear mandate for the Federal Trade Commission 
+to enforce these standards with civil penalties. "
+23,CSC-Final-Report,"Any legislation should also explicitly create the expec-
+tation that covered entities will exert reasonable care 
+and security regarding the protection of all relevant data 
+they hold."
+23,CSC-Final-Report,Pass a National Breach Notiﬁcation Law
+23,CSC-Final-Report,"Congress should pass a national breach notification law 
+that: Preempts the 54 existing state, district, and territorial 
+data breach notification laws."
+23,CSC-Final-Report,"Congress should pass a national breach notification law 
+that:  Establishes a threshold for what would be considered 
+a covered “breach.”"
+23,CSC-Final-Report,"Congress should pass a national breach notification law 
+that: Sets standards and timelines for notifying victims. "
+23,CSC-Final-Report,"Congress should pass a national breach notification law 
+that: Requires the notification and transmission of 
+relevant forensic data to the appropriate law enforce-
+ment and cybersecurity authorities and other relevant 
+anonymized data to authorized data-gathering bod-
+ies, such as the Bureau of Cyber Statistics proposed 
+above (recommendation 4.3). "
+23,CSC-Final-Report,"Congress should pass a national breach notification law 
+that: Sets criteria that determine when victims should 
+receive free credit monitoring or other data and 
+identity protections."
+23,CSC-Final-Report,"Congress should pass a national breach notification law 
+that: Deconflicts with existing federal regulation for 
+private-sector and other non-federal entities."
+23,CSC-Final-Report,"OPERATIONALIZE CYBERSECURITY 
+COLLABORATION WITH THE PRIVATE 
+SECTOR"
+23,CSC-Final-Report,"To those ends, 
+the U.S. government should conduct a comprehensive 
+systems analysis review of federal cyber defense and secu-
+rity centers and missions, with a view toward diminishing 
+barriers to collaboration across the federal government 
+and between the public and private sectors. "
+23,CSC-Final-Report,The U.S. government should improve government support to private-sector cyber defensive operations.
+23,CSC-Final-Report,"Congress should codify the concept of “systemically important critical infrastructure,” 
+whereby entities responsible for systems and assets that underpin national critical functions are 
+ensured the full support of the U.S. government and shoulder additional security requirements 
+consistent with their unique status and importance."
+23,CSC-Final-Report,"To address this gap, Congress should codify into law the 
+concept of “systemically important critical infrastruc-
+ture,” whereby entities responsible for systemically critical 
+systems and assets are granted special assistance from the 
+U.S. government and shoulder additional security and 
+information-sharing requirements befitting their unique 
+status and importance. "
+23,CSC-Final-Report,"Congress should direct the 
+executive branch, through the Department of Homeland 
+Security (DHS) and in consultation with the appropriate 
+sector-specific agencies, to develop a process to identify 
+key systems and assets underpinning certain critical 
+functions and designate the entities responsible for their 
+management, operations, and security as “systemically 
+important critical infrastructure.” "
+23,CSC-Final-Report,"These designations 
+should be reviewed and updated as part of the regularly 
+occurring National Risk Management Cycle led by DHS 
+(recommendation 3.2.2)."
+23,CSC-Final-Report,"Designated entities should be 
+codified in an unclassified determination issued by the 
+President, while the specific systems and assets that led to 
+the designation should be classified."
+23,CSC-Final-Report,"the U.S. government should focus on national critical functions that:
+Directly support or underpin national security 
+programs or government or military operations."
+23,CSC-Final-Report," the U.S. government should focus on national critical functions that:
+Constitute essential economic functions or underpin 
+the national distribution of goods and services.
+"
+23,CSC-Final-Report," the U.S. government should focus on national critical functions that:
+Support or underpin public health and safety or are 
+so foundational that their disruption could endanger 
+human life on a massive scale."
+23,CSC-Final-Report,"Congress should 
+direct the executive branch to define government pro-
+grams in which entities designated as systemically import-
+ant critical infrastructure would be required to participate 
+as a consequence of their designation; this list should be 
+updated regularly."
+23,CSC-Final-Report,"These programs should include federal 
+government information-sharing programs, national risk 
+identification and assessment efforts, and other relevant 
+federal programs meant to assist the private sector in 
+cyber defense and security."
+23,CSC-Final-Report,"Congress should direct the exec-
+utive branch to develop a “Security Certification” for 
+systemically important critical infrastructure and a 
+mechanism, devised in consultation with the private 
+sector, for SICI entities to certify their compliance on a 
+consistent basis. "
+23,CSC-Final-Report,"DHS and the Department of Defense 
+(DoD), in coordination with sector-specific agencies, 
+should establish common and sector-specific standards 
+and expectations for the governance and execution of 
+security operations for this certification. "
+23,CSC-Final-Report,"In establishing 
+these certifications, the executive branch should seek to 
+reduce redundancy and regulatory burden by looking 
+to existing regulatory requirements or existing security 
+regimes rather than establishing new ones."
+23,CSC-Final-Report,"the executive branch 
+should define a process by which designated entities can, 
+through DHS, request expedited federal assistance in 
+instances when they have been compromised or attacked 
+by a malicious cyber actor. "
+23,CSC-Final-Report,"This process should define the 
+information required to submit a request, the timeline 
+for response, and the criteria used by federal departments 
+and agencies to evaluate and approve requests."
+23,CSC-Final-Report,"Congress should explicitly establish in law that sharing 
+intelligence with U.S.-owned entities designated as SICI 
+does not constitute unlawful favoring of one entity 
+over another. "
+23,CSC-Final-Report,"In addition, Congress should direct the 
+executive branch to define mechanisms and procedures, through DHS and the Office of the Director of National 
+Intelligence and in consultation with sector-specific 
+agencies, for enhanced collaboration among designated 
+entities, sector-specific agencies, and the U.S. intelligence 
+community."
+23,CSC-Final-Report,"Review and Update Intelligence 
+Authorities to Increase Intelligence Support 
+to the Broader Private Sector"
+23,CSC-Final-Report,"To that end, Congress should direct the executive 
+branch to conduct a six-month comprehensive review 
+of intelligence policies, procedures, and resources to identify and address key limitations in the ability of the 
+intelligence community to provide intelligence support 
+to the private sector."
+23,CSC-Final-Report,"the executive branch should report 
+its findings to Congress upon conclusion of its review, 
+which should include specific recommendations or 
+plans to address challenges identified in the report."
+23,CSC-Final-Report,"The 
+review should: 
+• Examine U.S. foreign intelligence surveillance 
+authorities to identify and address limitations in 
+collection for cyber defense missions supporting 
+private-sector stakeholders.
+"
+23,CSC-Final-Report,"The 
+review should: Review policies to identify limitations in the intelli-
+gence community’s ability to share threat intelligence 
+information with the private sector, including 
+accounting for instances when national security 
+outweighs concerns over preferential treatment.
+"
+23,CSC-Final-Report,"The 
+review should: Review downgrade and declassification procedures 
+for cyber threat intelligence to improve the speed and 
+timeliness of its release; consider defining criteria and 
+procedures for expedited declassification and release 
+of certain types of intelligence.
+"
+23,CSC-Final-Report,"The 
+review should: Examine current and projected mission require-
+ments of the National Security Agency’s (NSA) 
+Cybersecurity Directorate, identify current funding 
+gaps, and recommend budgetary changes needed to 
+ensure that NSA meets expectations for increased 
+support to the nation’s cybersecurity effort.
+"
+23,CSC-Final-Report,"The 
+review should: Review cyber-related information-sharing consent 
+processes, including consent to monitor agreements, 
+and assess gaps and opportunities for greater stan-
+dardization and simplification while ensuring privacy 
+and civil liberty protections.
+"
+23,CSC-Final-Report,"The 
+review should: Review existing statutes governing “national security 
+systems”—including National Security Directive 42, 
+which establishes executive policy on the security of 
+national security telecommunications and informa-
+tion systems—and assess their ability to provide the 
+National Security Agency with sufficient authority to 
+conduct its mission in protecting systems and assets 
+that are critical to national security."
+23,CSC-Final-Report,"Strengthen and Codify Processes 
+for Identifying Broader Private-Sector 
+Cybersecurity Intelligence Needs and 
+Priorities"
+23,CSC-Final-Report,"Congress should therefore direct and resource the federal 
+government to establish a formal process to solicit and 
+compile private-sector input to inform national intel-
+ligence priorities, collection requirements, and more 
+focused U.S. intelligence support to private-sector 
+cybersecurity operations."
+23,CSC-Final-Report,"This process should: Be led by the Office of the Director of National 
+Intelligence and DHS, in coordination with DoD 
+and other sector-specific agencies.
+"
+23,CSC-Final-Report,"This process should: Identify common technologies or interdependen-
+cies—areas of high risk that are likely to be targeted 
+by intelligent nation-state adversaries.
+"
+23,CSC-Final-Report,"This process should: Seek to identify intelligence gaps, priorities, and 
+needs across the private sector and state, local, tribal, 
+and territorial entities."
+23,CSC-Final-Report,"This process should: Run parallel with and be tied to National Risk 
+Management Cycle (recommendation 3.1.1) pro-
+cesses for risk identification and assessment, as the 
+same information that informs sector-specific and 
+cross-sector risk can be used to guide U.S. intelli-
+gence efforts to provide indications and warnings 
+and more focused intelligence.
+"
+23,CSC-Final-Report,"This process should: Empower sector-specific agencies and make them 
+accountable to work with their sectors, including 
+sector-coordinating councils and ISACs, to identify 
+specific critical lines of businesses, technologies, and 
+processes and work directly with the intelligence 
+community to convey specific details.
+"
+23,CSC-Final-Report,"This process should: Codify legal protections for the types of information 
+that would be routinely shared as part of this process, 
+ensuring that such information is protected and 
+insulated from public disclosure"
+23,CSC-Final-Report,"Empower Departments and Agencies 
+to Serve Administrative Subpoenas in 
+Support of Threat and Asset Response 
+Activities"
+23,CSC-Final-Report,"To address this gap, Congress should consider granting 
+certain departments and agencies subpoena authority in 
+support of their threat and asset response activities, while 
+ensuring appropriate liability protections for cooperating 
+private-sector network owners."
+23,CSC-Final-Report,"Congress should extend existing law enforcement 
+administrative subpoena authority, currently defined 
+under 18 U.S. Code § 3486, for the Federal Bureau of 
+Investigation and the United States Secret Service to 
+include violations of the Computer Fraud and Abuse Act, 
+18 U.S. Code § 1030"
+23,CSC-Final-Report,"Congress should pass the Cybersecurity Vulnerability 
+Identification and Notification Act of 2019 to grant tai-
+lored authority to the Director of the Cybersecurity and 
+Infrastructure Security Agency (CISA) to serve admin-
+istrative subpoenas so that the owners of online systems 
+with known vulnerabilities can be identified, enabling 
+asset response activities and preventing future intrusion."
+23,CSC-Final-Report,IMPROVE COMBINED SITUATIONAL AWARENESS OF CYBER THREATS 
+23,CSC-Final-Report,"The U.S. government should improve combined situational awareness of cyber threats to better support 
+its own and private-sector cyber defensive efforts. "
+23,CSC-Final-Report,"The U.S. government should leverage its unique, comparative 
+advantages to improve the national collective understanding of the threat, including the information 
+available to the intelligence community and a capacity to integrate information from disparate sources—
+both public and private. "
+23,CSC-Final-Report,"Similarly, the U.S. government must create the structures and processes to work 
+with private-sector entities that have unique insights of their own and a different, and in some cases more 
+comprehensive, view of threats impacting domestic critical infrastructure."
+23,CSC-Final-Report,"Congress should establish and fund a Joint Collaborative Environment, a common and 
+interoperable environment for the sharing and fusing of threat information, insight, and other 
+relevant data across the federal government and between the public and private sectors."
+23,CSC-Final-Report,"To that end, Congress should establish a “Joint 
+Collaborative Environment”, a common, cloud-based 
+environment in which the federal government’s unclas-
+sified and classified cyber threat information, malware 
+forensics, and network data from monitoring programs 
+are made commonly available for query and analy-
+sis—to the greatest extent possible."
+23,CSC-Final-Report,"The Joint Collaborative Environment should 
+support federal cyber centers, an integrated cyber center 
+at CISA (recommendation 5.3), and a planning cell 
+under CISA (recommendation 5.4)."
+23,CSC-Final-Report,"Given the complexity 
+of such a program, Congress should allow for a multiyear 
+design and development cycle that proceeds in phases."
+23,CSC-Final-Report,"Initial phases should focus on designing appropriate 
+interoperable standards, affording for integration of 
+all covered data programs, and ensuring that disparate 
+databases or centers can be compatible and interoperable 
+at machine speed and scale. "
+23,CSC-Final-Report,"Subsequent phases should 
+focus on sharing high-level insights and more exquisite 
+data—as well as addressing challenges introduced by 
+wider inclusion of private-sector partners. "
+23,CSC-Final-Report,"Congress should designate DHS 
+and the NSA to act as the primary program managers and lead agencies charged with developing and maintaining the 
+environment in unclassified and classified space, respec-
+tively. "
+23,CSC-Final-Report,"Where feasible, unclassified data should be routinely 
+mirrored to a classified environment, and integrated with 
+classified data, to provide enrichment, to broaden con-
+text, and to inform and enable indications and warning. "
+23,CSC-Final-Report,"Analytic tools should be deployed across classification 
+levels to leverage all relevant data sets as appropriate. "
+23,CSC-Final-Report,"Congress should direct the exec-
+utive branch to designate, as part of the environment’s 
+development process and on a routine basis after it is fully 
+operational, federal programs required to participate, 
+feed into, and/or be interoperable with the environment"
+23,CSC-Final-Report,"These federal programs should include any programs that 
+generate, collect, or disseminate data or information in 
+the detection, identification, analysis, and monitoring of 
+cyber threats,"
+23,CSC-Final-Report,"The law should direct 
+that any private-sector information-sharing programs 
+participating in the Joint Collaborative Environment 
+are extended protections analogous to those afforded by 
+the Cybersecurity Information Sharing Act of 2015."
+23,CSC-Final-Report,"Congress 
+should direct the executive branch to establish an 
+interagency council, chaired by the program managers, that sets data standards and requirements for program 
+participation and interoperability."
+23,CSC-Final-Report,"Data standards and 
+interoperability requirements should be formed in a 
+public-private process to ensure the full inclusion of the 
+private sector in program design"
+23,CSC-Final-Report,"Congress should appropriate nec-
+essary funds to DHS and the NSA to develop, purchase, 
+and deploy tools and analytical software that can be 
+applied and shared to manipulate, transform, and display 
+data and other identified needs."
+23,CSC-Final-Report,"Membership should 
+include any department or agency that oversees par-
+ticipating, designated programs. "
+23,CSC-Final-Report,"In developing the pro-
+gram, the federal government should establish the 
+procedures and data governance structures necessary 
+to protect the sensitivity of data, comply with federal 
+regulations and statutes, and respect existing consent 
+agreements with the private sector and other non-fed-
+eral entities. "
+23,CSC-Final-Report,"The federal government should take steps 
+to make preexisting and all future consent agreements 
+compliant with inclusion into the environment and 
+bring preexisting agreements and programs into compli-
+ance with the program. "
+23,CSC-Final-Report,"The environment should be 
+designed with the goal of including the participation of 
+the private sector and information sharing and analysis 
+organizations/centers, both to feed into and to benefit 
+from the data and analytical insight the environment 
+would provide."
+23,CSC-Final-Report,"To achieve this goal, the U.S. government should take 
+steps, through the Joint Collaborative Environment’s 
+interagency council, to expand and more centrally fund, 
+manage, and deploy these programs and ensure their 
+interoperability with broader federal cyber threat–sharing 
+and integration efforts"
+23,CSC-Final-Report,"In addition, Congress should 
+identify programs that should be excluded from or have 
+special handling in this expansion and standardization, 
+such as law enforcement and domestic counterintelli-
+gence collection efforts. "
+23,CSC-Final-Report,"Pass a National Cyber Incident 
+Reporting Law"
+23,CSC-Final-Report,"To address this shortcoming, Congress should authorize 
+DHS and Department of Justice (DOJ) to establish 
+requirements for critical infrastructure entities to report 
+cyber incidents to the federal government. "
+23,CSC-Final-Report,"In crafting 
+this requirement, DHS and DOJ should collaborate with 
+public- and private-sector entities to identify the types of 
+critical infrastructure entities to which it should apply."
+23,CSC-Final-Report,"This information should be minimized, anonymized, 
+and shared as statistical data with the Bureau of Cyber 
+Statistics (recommendation 4.3)."
+23,CSC-Final-Report,"DHS and DOJ should, in coordination with sec-
+tor-specific agencies and the private sector, define the 
+thresholds and types of cyber incidents that would be 
+required to be reported under this law."
+23,CSC-Final-Report,"DHS and DOJ should define clear mechanisms, 
+processes, the format, and information required 
+in reporting such an incident. These specifications 
+should include processes necessary to protect privacy 
+and minimize personally identifiable information."
+23,CSC-Final-Report,"Amend the Pen Register Trap and Trace 
+(PRTT) Statute to Enable Better Identiﬁcation 
+of Malicious Actors"
+23,CSC-Final-Report,"to reduce ambiguity and allow the private 
+sector a broader range of defensive techniques, Congress 
+should amend 18 U.S. Code § 3121, referred to as the 
+Pen Register and Trap and Trace statute, to help enable 
+certain “active defense” activities. "
+23,CSC-Final-Report,INTEGRATE PUBLIC- AND PRIVATE-SECTOR CYBER DEFENSE EFFORTS
+23,CSC-Final-Report,"The U.S. government should improve its capacity to better coordinate its own cyber defense planning 
+and operations and integrate its operations with the private sector. "
+23,CSC-Final-Report,"Congress should direct the executive branch to strengthen a public-private, integrated cyber 
+center within CISA in support of the critical infrastructure security and resilience mission and to 
+conduct a one-year, comprehensive systems analysis review of federal cyber and cybersecurity 
+centers, including plans to develop and improve integration"
+23,CSC-Final-Report,"Congress should direct the executive branch to imme-
+diately begin to strengthen a public-private, integrated 
+cyber center within CISA in support of the critical 
+infrastructure cybersecurity and resilience mission and in 
+coordination with centers in the FBI, ODNI, and DoD."
+23,CSC-Final-Report,"While this is under way, the executive branch should 
+conduct a one-year, comprehensive systems analysis 
+review of federal cyber and cybersecurity centers, which 
+should include developing plans to better integrate 
+the centers. "
+23,CSC-Final-Report,"the review should identify challenges and 
+solutions to more effectively integrate elements of federal 
+cyber centers, the private sector, and CISA with a view 
+toward reinforcing human-to-human collaboration, 
+reducing procedural or technical barriers to integration, 
+implementing other recommendations within this report, 
+and, to the greatest extent possible, increasing meaningful 
+integration of cybersecurity stakeholders. "
+23,CSC-Final-Report,"this process 
+should be undertaken by the National Cyber Director 
+(recommendation 1.5), or, in lieu of a National Cyber 
+Director, a working group led by DHS, in coordination 
+with DoD, DOJ, FBI, and ODNI. "
+23,CSC-Final-Report,"In strengthening a public-private integrated 
+cyber center within CISA, the executive branch should 
+identify continuing gaps and shortcomings in CISA’s 
+current capacity, structure, funding, and integration of its work with sector-specific agencies that prevent it 
+from fulfilling its role as the central coordinator among 
+federal centers for critical infrastructure cybersecurity and 
+resilience"
+23,CSC-Final-Report,"The 
+executive branch should assess areas where existing federal 
+cyber centers, or portions of a center’s mission, would 
+benefit from greater integration or collocation to support 
+cybersecurity collaboration with critical infrastructure. "
+23,CSC-Final-Report,"The review should identify and acknowledge continuing 
+gaps and shortcomings in associated capacity and funding 
+of the FBI and ODNI, identify methods to better 
+integrate efforts with CISA in support of its mission to 
+ensure the security and resilience of critical infrastructure, 
+and identify where federal agencies have distinct statutory 
+authorities (i.e., those of law enforcement, counterintel-
+ligence, military, and intelligence operations) best kept 
+distinct and separate from these efforts"
+23,CSC-Final-Report,"The executive branch review of federal 
+cyber centers should include a particular focus on NSA’s 
+new Cybersecurity Directorate."
+23,CSC-Final-Report,"The executive branch should identify 
+continuing gaps and opportunities for greater integration 
+of CSD with CISA, other federal cyber centers, and, as 
+needed, the private sector in its role of securing national 
+security systems."
+23,CSC-Final-Report,"The U.S. government should identify les-
+sons from the United Kingdom’s National Cybersecurity 
+Center model, which maintains collocated classified and 
+unclassified environments for private-sector cybersecu-
+rity integration. "
+23,CSC-Final-Report,"The review should assess whether an 
+integrated cyber center within CISA should be similarly organized into two environments: an unclassified side, 
+which handles general cybersecurity coordination and 
+cooperation with the private sector, and a classified 
+side with appropriate support from CSD, which han-
+dles deeper collaboration with systemically important 
+critical infrastructure and the intelligence community 
+on systemic cyber security and resilience and cyber 
+defense operations"
+23,CSC-Final-Report,"The executive branch should assess 
+continuing gaps and limitations in its ability to provide 
+for greater centralization of public-private cybersecurity 
+efforts similar to the NCSC model within a CISA inte-
+grated cyber center."
+23,CSC-Final-Report,"The exec-
+utive branch review should also recommend procedures 
+and criteria for increasing and expanding the participa-
+tion and integration of public- and private-sector per-
+sonnel into U.S. government cyber defense and security 
+efforts."
+23,CSC-Final-Report,"This review should identify continuing limitations 
+or hurdles in the security clearance program for private sector partners and in integrating private sector partners 
+into a CISA integrated cyber center, including integrating 
+private sector organizations like information sharing 
+and analysis centers (ISAC) and the Financial Systemic 
+Analysis and Resilience Center (FSARC)"
+23,CSC-Final-Report,"Within one year and upon the conclusion of its review, 
+the executive branch should report its findings to 
+Congress and provide recommendations on additional 
+resources or authorities required to implement its plans 
+and to address gaps the review has identified. "
+23,CSC-Final-Report,"Future 
+reports should include updates on the progress of the 
+Joint Collaborative Environment (recommendation 5.2) 
+in enabling greater federal agency and public-private 
+integration, after the environment comes online."
+23,CSC-Final-Report," The executive branch should establish a Joint Cyber Planning Cell under the Cybersecurity 
+and Infrastructure Security Agency to coordinate cybersecurity planning and readiness across the 
+federal government and between the public and private sectors for signiﬁcant cyber incidents 
+and malicious cyber campaigns."
+23,CSC-Final-Report,"To address this shortcoming, the executive branch, with 
+the support of Congress, should establish a Joint Cyber 
+Planning Cell (“the Cell”) under CISA. "
+23,CSC-Final-Report,"the Cell should 
+be composed of a central planning staff and representatives 
+from the federal agencies that wield operational cyber 
+capabilities and/or authorities in defense of critical infra-
+structure. "
+23,CSC-Final-Report,"As part of the 
+Cell’s establishment, Congress should ensure that it has suf-
+ficient resources both to carry out its mission and to provide 
+support to other agencies that possess relevant equities but 
+do not have adequate operational planning capacity"
+23,CSC-Final-Report,"the executive branch should estab-
+lish procedures for identifying and prioritizing scenarios 
+and contingencies around which the Cell will develop 
+whole-of-government and public-private plans. "
+23,CSC-Final-Report,"These plans should be developed through a 
+deliberate planning process, accounting for all partici-
+pating federal agency cyber capabilities and authorities"
+23,CSC-Final-Report,"The executive branch should estab-
+lish procedures for identifying and prioritizing scenarios 
+and contingencies around which the Cell will develop 
+whole-of-government and public-private plans."
+23,CSC-Final-Report,"The 
+executive branch should assign roles and responsibilities to 
+federal agencies necessary to carry out this requirement and 
+establish further directives on how plans will be formed, 
+coordinated, maintained, updated, and routinely exercised"
+23,CSC-Final-Report,"Agency elements of plans should be prepared 
+and submitted through a predetermined approval process 
+to appropriate authorities for rapid—and, if required, 
+sustained—execution in response to an attack."
+23,CSC-Final-Report,"Institutionalize Department of Defense 
+Participation in Public-Private Cybersecurity 
+Initiatives "
+23,CSC-Final-Report,"Congress should request in the FY2021 National Defense 
+Authorization Act (NDAA) an assessment of the impact 
+of the current Pathfinder initiative, prospects for making 
+existing Pathfinder pilots more robust, and whether 
+and how to expand Pathfinder or similar models of 
+public-private collaboration to other critical infrastruc-
+ture sectors, particularly systemically important critical 
+infrastructure. "
+23,CSC-Final-Report," Examine additional comparative models for ensur-
+ing dedicated, long-term support to public-private 
+cybersecurity initiatives led by civilian departments 
+and agencies, such as the FBI and CISA"
+23,CSC-Final-Report," Examine DoD support to existing federal cyber cen-
+ters and assess the need for establishing a meaning-
+fully permanent presence of personnel to encourage 
+greater integration with public- and private-sector 
+cybersecurity efforts."
+23,CSC-Final-Report,"Expand Cyber Defense Collaboration 
+with Information and Communications 
+Technology (ICT) Enablers"
+23,CSC-Final-Report,"U.S. government should invest more resources in:
+Providing better support to ICT enablers, including 
+better and more actionable information and classified 
+indicators, and increasing collaboration on broader 
+cyber defense efforts.
+"
+23,CSC-Final-Report,"U.S. government should invest more resources in:
+Building institutional mechanisms to better identify, 
+accept, and integrate key cybersecurity information 
+and indicators with information and indicators from 
+other government sources.
+"
+23,CSC-Final-Report,"U.S. government should invest more resources in:
+Operationalizing public-private initiatives, like the 
+Enduring Security Framework, between the U.S. 
+government and critical technology enablers such as 
+internet service providers and information technol-
+ogy companies."
+23,CSC-Final-Report,"PRESERVE AND EMPLOY THE MILITARY 
+INSTRUMENT OF POWER"
+23,CSC-Final-Report,"GROW THE CAPACITY OF THE CYBER MISSION FORCE (CMF) TO MEET 
+THE SCOPE OF THE THREAT AND GROWING MISSION REQUIREMENTS"
+23,CSC-Final-Report,"The United States should achieve appropriate resourcing, force size, and mix of its cyber forces as well as 
+streamlined decision-making processes to ensure rapid maneuver and flexibility. "
+23,CSC-Final-Report,"Congress should direct the Department of Defense to conduct a force structure assessment 
+of the Cyber Mission Force (CMF)."
+23,CSC-Final-Report,"As part of the FY2021 National Defense Authorization 
+Act (NDAA), Congress should direct the Department of 
+Defense to conduct a force structure assessment of the 
+U.S. Cyber Command’s Cyber Mission Force in light of 
+growing mission requirements and expectations, in terms 
+of both scope and scale."
+23,CSC-Final-Report,"This assessment should include 
+resource and capability implications for the National 
+Security Agency (NSA) in its combat support agency role."
+23,CSC-Final-Report,"To conduct these missions at scale, as well as ensure that 
+the CMF has sufficient capacity to maintain steady-state 
+operations while surging to respond to an emerging 
+crisis, Congress should request in the next Cyber Posture 
+Review, and quadrennially thereafter, that DoD provide 
+an assessment of the requirements to grow the CMF, 
+including projected force size and mixture necessary to 
+sustain all DoD missions in cyberspace as determined by 
+the department."
+23,CSC-Final-Report,"Key concerns that should be addressed 
+include ensuring that the CMF is appropriately sized, 
+given the requirements of the diverse and significant 
+mission sets it supports, and ensuring that the allocation 
+of teams within the CMF is matched to the prioritization 
+of strategic objectives. "
+23,CSC-Final-Report,"The results of this assessment 
+should drive resource allocation, force size and mix, and 
+continued congressional oversight of these efforts."
+23,CSC-Final-Report,"Direct the Department of Defense 
+to Create a Major Force Program (MFP) 
+Funding Category for U.S. Cyber Command "
+23,CSC-Final-Report,"to enhance the flexibility and agility of U.S. Cyber 
+Command in a dynamic operating environment, 
+Congress should direct in the FY2021 NDAA that the 
+Department of Defense submit a budget justification 
+display that includes a Major Force Program (MFP) cat-
+egory for the training, manning, and equipping of U.S. 
+Cyber Command. "
+23,CSC-Final-Report,"expand 
+Current Malware 
+Inoculation 
+Initiatives "
+23,CSC-Final-Report,"To 
+contribute to the readiness of U.S. defense and critical 
+infrastructure, efforts should be made to accelerate 
+sharing of the most recent malicious code captured in 
+the wild through appropriate interagency channels, 
+including through the Joint Collaborative Environment 
+(recommendation 5.2)."
+23,CSC-Final-Report,"These efforts should continue and be 
+accelerated, and U.S. Cyber Command should ensure 
+coordination with DHS, the FBI, and stakeholders in the 
+private sector in the release of information, particularly 
+with owners and operators of systemically important 
+critical infrastructure (SICI; recommendation 5.1)."
+23,CSC-Final-Report,"Improvements in the timing, granularity, and action-
+ability of information should be synchronized with 
+existing efforts across interagency partners and with 
+the new enhanced coordination mechanisms proposed 
+elsewhere in this report so that the private sector can 
+be confident that it has a shared picture of the threat 
+landscape"
+23,CSC-Final-Report,"There should also be a bias toward action to get perish-
+able data out to victims in the private sector as quickly 
+as reasonably possible, rather than waiting to complete a 
+slow process of coordination prior to release."
+23,CSC-Final-Report,"Review the Delegation of Authorities 
+for Cyber Operations"
+23,CSC-Final-Report,"To enable support for more streamlined decision-making 
+processes, and flexible and rapid maneuver, Congress 
+should request that DoD provide in the next Cyber 
+Posture Review an analysis of and recommendations 
+for the conditions under which further delegation of 
+cyber-related authorities is appropriate to U.S. Cyber 
+Command, as well as to other DoD components includ-
+ing NSA, the Defense Information Systems Agency 
+(DISA), and the DoD Cyber Crime Center (DC3)"
+23,CSC-Final-Report,"DoD should also review the option of further delegating 
+information warfare authorities to U.S. Cyber Command 
+and the specific conditions under which such delegation 
+would be appropriate."
+23,CSC-Final-Report,"Reassess and Amend Standing Rules of 
+Engagement (SROE) and Standing Rules for 
+Use of Force (SRUF) for U.S. Forces"
+23,CSC-Final-Report,"DoD, as part of the next Cyber Posture Review, should 
+produce a study that assesses and provides recommenda-
+tions for amendments as necessary to the Standing Rules 
+of Engagement (SROE) and Standing Rules for Use of 
+Force (SRUF) for U.S. forces, as these rules are more 
+than a decade old."
+23,CSC-Final-Report,"This study should be context-specific, 
+taking into account the forces’ assigned mission sets. 
+Given the unique aspects of operating in cyberspace, par-
+ticularly below a use-of-force threshold, it is imperative 
+that SROE/SRUF guidance be relevant to actions in and 
+through cyberspace."
+23,CSC-Final-Report,"Cooperate with Allies and Partners to 
+Defend Forward "
+23,CSC-Final-Report,"The Department of State should focus on the traditional 
+diplomatic channels in support of defend forward, 
+while DoD should lead through military-to-military 
+relationships."
+23,CSC-Final-Report,"In addition, given the preexisting and deep 
+intelligence-sharing partnership among Five Eyes allies 
+(Australia, Canada, New Zealand, the United Kingdom, 
+and the United States), DoD (including the NSA) and 
+the intelligence community should further collaborate 
+with these Five Eyes allies, supplementing the signals 
+intelligence architecture and mission with one supporting 
+military cyber operations"
+23,CSC-Final-Report," Require the Department of Defense to 
+Deﬁne Reporting Metrics"
+23,CSC-Final-Report,"Therefore, 
+DoD should ensure that when modifying its report-
+ing system pursuant to Section 1634 of the FY2020 
+NDAA, the department defines and reports to Congress 
+department-specific metrics to measure defend forward 
+outcomes across strategic, operational, and tactical levels 
+and includes this data in the existing quarterly brief-
+ings to appropriate congressional committees."
+23,CSC-Final-Report,"hese 
+measures should include the direct and indirect costs 
+imposed on adversaries, the impact of defend forward 
+operations and campaigns on adversary behavior, how 
+adversary cyber operations have quantifiably affected 
+DoD’s ability to conduct or succeed across cyber and 
+non-cyber missions, and DoD’s assessment of the 
+ability of adversary cyber operations to impact future 
+campaigns."
+23,CSC-Final-Report,"Congress should request in the FY2021 NDAA an assess-
+ment from DoD on the need for, and requirements of, a 
+military cyber reserve, its possible composition, and its 
+structure (i.e., a retainer model, a nontraditional reserve, 
+a strategic technological reserve, or other models). "
+23,CSC-Final-Report,"Explore how different types of reserve models, 
+including less traditional models with more flexible 
+requirements, could address broader issues of talent 
+management (e.g., retaining talent transitioning 
+from active duty into the reserve)."
+23,CSC-Final-Report,"Assess how a cyber reserve could deliberately recruit 
+key people in the private sector to participate, 
+enabling DoD to call on cyber talent that currently 
+resides in the private sector as a surge capacity in 
+times of crisis. "
+23,CSC-Final-Report,"Examine ways to facilitate recruiting and retaining 
+civilian talent with no prior military expertise who 
+are interested in serving."
+23,CSC-Final-Report,"Assess the impact a cyber reserve would have on 
+drawing civilian talent from the private sector and 
+any similar non-DoD governmental capacity."
+23,CSC-Final-Report,"Address how DoD might use existing mechanisms to 
+bring in technical expertise when needed to respond 
+to a crisis and identify shortcomings in cyber exper-
+tise that might be addressed through more targeted 
+hiring practices."
+23,CSC-Final-Report,"Establish Title 10 Professors in Cyber 
+Security and Information Operations"
+23,CSC-Final-Report,"The Department of Defense should establish a Title 
+10 Professor in Cyber Security and Information 
+Operations, housed at the Senior Education Professional 
+Military Education (PME) institutions within each 
+service branch and at the National Defense University 
+(NDU), to communicate and investigate cyber strategy 
+and policy at the national level as it affects the armed 
+forces. "
+23,CSC-Final-Report,"ENSURE THE SECURITY AND RESILIENCE OF CRITICAL CONVENTIONAL 
+AND NUCLEAR WEAPONS SYSTEMS AND FUNCTIONS"
+23,CSC-Final-Report,"Congress should direct the Department of Defense to conduct a cybersecurity vulnerability 
+assessment of all segments of the NC3 and NLCC systems and continually assess weapon systems 
+cyber vulnerabilities."
+23,CSC-Final-Report,"Congress should include language in the FY2021 
+NDAA that requires the DoD to conduct a cybersecurity 
+vulnerability assessment of all segments of the nuclear 
+command, control, and communications enterprise and 
+National Leadership Command Capabilities. "
+23,CSC-Final-Report,"Following 
+this assessment, DoD should begin to report annually to 
+Congress on the status of the ongoing cyber vulnerability 
+assessments of all DoD major weapon systems and NC3 
+and NLCC enterprises. This report must include assess-
+ments of legacy platforms and cyber vulnerabilities across 
+networked systems in broader mission areas."
+23,CSC-Final-Report,"In addition 
+to assessing vulnerabilities of fielded systems, DoD must 
+enforce cybersecurity requirements for systems that are in 
+development early in the acquisition lifecycle, ensuring 
+that they remain baked into the front end of this process 
+and are not “bolted on” later.3"
+23,CSC-Final-Report,"Thus, Congress should direct 
+DoD to institutionalize a continuous assessment process 
+and annually report these vulnerabilities to sustain its 
+momentum in implementing key initiatives. "
+23,CSC-Final-Report,"With this in 
+mind, Congress should direct DoD to routinely assess 
+every segment of the NC3 and NLCC enterprise for 
+adherence to cybersecurity best practices, vulnerabilities, 
+and evidence of compromise"
+23,CSC-Final-Report,"Attention should also be given to influence opera-
+tions that aim to distort decision making while leaving 
+NC3 proper intact."
+23,CSC-Final-Report,"Require Defense Industrial Base 
+Participation in a Threat Intelligence Sharing 
+Program"
+23,CSC-Final-Report,"Therefore, prime contractors should be incentiv-
+ized to disclose their subcontractors to DoD."
+23,CSC-Final-Report,"Drawing on 
+DoD’s Cyber Maturity Model Certification (CMMC) 
+regulation, the requirements associated with participation 
+in a threat intelligence sharing program should be tied 
+to a firm’s level of maturity. "
+23,CSC-Final-Report,"In addition, the government 
+should communicate—particularly to small and medi-
+um-sized companies—the incentives for participation."
+23,CSC-Final-Report,"Congress should legislatively require companies that 
+make up the Defense Industrial Base, as part of the terms 
+of their contract with DoD, to participate in a threat 
+intelligence sharing program that would be housed at the 
+DoD component level. "
+23,CSC-Final-Report,"A DIB threat intelligence sharing 
+program should contain a number of key elements, 
+including: Incentives for certain types of specifically delineated 
+information sharing, such as incident reporting. "
+23,CSC-Final-Report,"A DIB threat intelligence sharing 
+program should contain a number of key elements, 
+including: Consent by DIB entities for the NSA to query in 
+foreign intelligence collection databases on DIB enti-
+ties and provide focused threat intelligence to them, 
+as well as enable all elements of DoD, including 
+the NSA, to directly tip intelligence to the affected 
+entity."
+23,CSC-Final-Report,"A DIB threat intelligence sharing 
+program should contain a number of key elements, 
+including: A shared and real-time picture of the threat environ-
+ment; joint, collaborative, and co-located analytics; 
+and investments in technology and capabilities to 
+support automated detection and analysis."
+23,CSC-Final-Report,"A DIB threat intelligence sharing 
+program should contain a number of key elements, 
+including: Further empowerment of and resources to the NSA’s 
+Cybersecurity Directorate, given that it is a new 
+entity with a critical mission"
+23,CSC-Final-Report,"A DIB threat intelligence sharing 
+program should contain a number of key elements, 
+including:Coordinated intelligence sharing with relevant 
+domestic law enforcement and counterintelligence 
+agencies, including the FBI, Air Force Office of 
+Special Investigations, Naval Criminal Investigative 
+Service, U.S. Army Counterintelligence, and DoD 
+Cyber Crime Center."
+23,CSC-Final-Report,"Require Threat Hunting on Defense 
+Industrial Base Networks"
+23,CSC-Final-Report,"Congress should therefore direct regulatory action that 
+the executive branch should pursue in order to require 
+companies that make up the Defense Industrial Base, as 
+part of the terms of their contract with DoD, to create 
+a mechanism for mandatory threat hunting on DIB 
+networks. "
+23,CSC-Final-Report,"A program for threat hunting on DIB networks should 
+also include the following: DoD threat assessment programs on DIB networks. 
+"
+23,CSC-Final-Report,"A program for threat hunting on DIB networks should 
+also include the following:  
+Incentives for companies to feed data collected and 
+generated from threat hunting activities on DIB 
+networks to DoD and the NSA’s Cybersecurity 
+Directorate. 
+"
+23,CSC-Final-Report,"A program for threat hunting on DIB networks should 
+also include the following: Coordination of DoD efforts with DHS and the FBI 
+in furtherance of the latter’s domestic cybersecurity 
+and counterintelligence responsibilities."
+23,CSC-Final-Report,"Designate a Threat-Hunting Capability 
+across the Department of Defense 
+Information Network"
+23,CSC-Final-Report,"Therefore, DoD should provide for a force struc-
+ture element to conduct threat hunting and related 
+activities across the entire DoDIN, covering the full 
+range of non-nuclear to nuclear force employment."
+23,CSC-Final-Report,"Specifically, DoD should develop a campaign plan for a threat-hunting capability that takes a risk-based approach 
+and that analyzes threat intelligence as well as assessments 
+of likely U.S. and allied targets of adversary interest."
+23,CSC-Final-Report,"Based on this analysis, the threat-hunting capability 
+should proactively conduct threat hunting against 
+those identified networks and assets to seek evidence of 
+compromise, identify vulnerabilities, and deploy counter-
+measures to enable early warning and thwart adversary 
+action."
+23,CSC-Final-Report,"Given the potentially high consequence of cyber 
+threats to NC3 and NLCC, priority should be assigned 
+to identifying threats to these networks and systems, and 
+threat hunting on them should recur with a frequency 
+commensurate with the risk."
+23,CSC-Final-Report,"To ensure seamless 
+and flexible maneuver of this force structure element, 
+DoD should develop a process to reconcile the author-
+ities and permissions to enable threat hunting across all 
+DoDIN networks, systems, and programs owned and 
+operated by multiple DoD stakeholders. "
+23,CSC-Final-Report,"Assess and Address the Risk to 
+National Security Systems Posed by 
+Quantum Computing"
+23,CSC-Final-Report,"The United States should continue to invest in quantum 
+information science, which offers immense opportunities 
+to improve U.S. military operational capabilities. "
+23,CSC-Final-Report,"To fully understand and prepare to counter the risks 
+of quantum computing to national security systems, 
+Congress should include language in the FY2021 NDAA 
+that requires DoD (NSA) to comprehensively assess 
+the threats and risks posed by quantum technologies to 
+national security systems and develop a plan to secure 
+those systems. "
+23,CSC-Final-Report,"This assessment should include the 
+following: Specific recommendations for addressing identified 
+risks and anticipated resource requirements. 
+"
+23,CSC-Final-Report,"This assessment should include the 
+following:  An assessment of ongoing efforts to develop quan-
+tum-resistant cryptographic standards, including 
+expected timelines for that development, budget 
+shortfalls in public-private efforts to reach such a 
+standard, and the feasibility of alternate quantum-re-
+sistant models, such as quantum cryptography."
+23,CSC-Final-Report,"This assessment should include the 
+following: A proposed framework for how to prioritize the 
+defense of different national security systems and a 
+timeline for implementation. 
+"
+23,CSC-Final-Report,"After the initial assessment, Congress should require an 
+annual report from DoD on the status of ongoing assess-
+ments and efforts to address identified risks."
